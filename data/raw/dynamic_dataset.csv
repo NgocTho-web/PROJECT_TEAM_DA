@@ -1,0 +1,1001 @@
+﻿ID,Tên sách,Tác giả,Nhà xuất bản,Giá,Giá gốc,Giảm giá,Phần trăm giảm,Đánh giá,Số lượt đánh giá
+1,Đắc Nhân Tâm,Nguyễn Nhật Ánh,NXB Tổng Hợp TP.HCM,211183.0,232069,20886.0,9,3.7,9183
+2,Nhà Giả Kim,James Clear,NXB Tổng Hợp TP.HCM,300138.0,353104,52966.0,15,4.8,2425
+3,The Psychology of Money,James Clear,NXB Tổng Hợp TP.HCM,221409.0,228257,6848.0,3,4.6,3615
+4,Cây Cam Ngọt Của Tôi,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,284003.0,319105,35102.0,11,3.6,16343
+5,Sherlock Holmes,Tony Buổi Sáng,NXB Lao Động,210259.0,300370,90111.0,30,4.6,16337
+6,Tuổi Trẻ Đáng Giá Bao Nhiêu,Tony Buổi Sáng,NXB Lao Động,195162.0,314777,119615.0,38,4.2,8874
+7,Deep Work,Nguyễn Ngọc Tư,NXB Trẻ,234646.0,366635,131989.0,36,3.8,12589
+8,Dế Mèn Phiêu Lưu Ký,Nguyễn Ngọc Tư,NXB Trẻ,246091.0,361899,115808.0,32,3.2,8009
+9,Sherlock Holmes,Robin Sharma,NXB Kim Đồng,217703.0,236634,18931.0,8,4.3,10948
+10,The Psychology of Money,Robin Sharma,NXB Kim Đồng,328267.0,426321,98054.0,23,3.1,10648
+11,Think and Grow Rich,Robin Sharma,NXB Thế Giới,396062.0,471502,75440.0,16,3.5,1429
+12,Deep Work,Paulo Coelho,NXB Thế Giới,186627.0,245562,58935.0,24,4.9,230
+13,Những Người Khốn Khổ,Dale Carnegie,NXB Phụ Nữ Việt Nam,194101.0,294092,99991.0,34,3.7,17407
+14,Hoàng Tử Bé,Victor Hugo,NXB Trẻ,46674.0,49131,2457.0,5,3.1,19587
+15,Tuổi Trẻ Đáng Giá Bao Nhiêu,Tony Buổi Sáng,NXB Thế Giới,265359.0,344622,79263.0,23,3.6,562
+16,Không Gia Đình,Nguyễn Nhật Ánh,NXB Thế Giới,232622.0,456121,223499.0,49,4.0,3989
+17,Sherlock Holmes,J.K. Rowling,NXB Thế Giới,71481.0,140159,68678.0,49,3.8,1722
+18,Dế Mèn Phiêu Lưu Ký,James Clear,NXB Thế Giới,62983.0,118836,55853.0,47,4.2,17970
+19,Hoàng Tử Bé,Paulo Coelho,NXB Phụ Nữ Việt Nam,300464.0,353487,53023.0,15,3.6,10596
+20,Nhà Giả Kim,Robin Sharma,NXB Lao Động,369475.0,410528,41053.0,10,5.0,975
+21,Không Gia Đình,James Clear,NXB Phụ Nữ Việt Nam,162489.0,191163,28674.0,15,3.5,6487
+22,Think and Grow Rich,Paulo Coelho,NXB Tổng Hợp TP.HCM,190196.0,223760,33564.0,15,4.5,5052
+23,Muôn Kiếp Nhân Sinh,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,179973.0,285672,105699.0,37,4.7,2677
+24,Think and Grow Rich,Paulo Coelho,NXB Tổng Hợp TP.HCM,263766.0,366341,102575.0,28,3.9,10626
+25,Deep Work,Antoine de Saint-Exupéry,NXB Lao Động,289064.0,401478,112414.0,28,4.2,8054
+26,Deep Work,J.K. Rowling,NXB Phụ Nữ Việt Nam,273816.0,285225,11409.0,4,3.2,14897
+27,Think and Grow Rich,Nguyễn Nhật Ánh,NXB Lao Động,113905.0,186729,72824.0,39,4.4,9781
+28,The Psychology of Money,James Clear,NXB Thế Giới,316179.0,367650,51471.0,14,4.0,8315
+29,Không Gia Đình,Paulo Coelho,NXB Lao Động,342484.0,475672,133188.0,28,4.0,215
+30,Nhà Giả Kim,Nguyễn Nhật Ánh,NXB Thế Giới,329970.0,499955,169985.0,34,3.9,6132
+31,Không Gia Đình,Victor Hugo,NXB Lao Động,126291.0,247630,121339.0,49,4.0,17009
+32,Những Người Khốn Khổ,Victor Hugo,NXB Tổng Hợp TP.HCM,43200.0,56842,13642.0,24,4.6,3358
+33,Những Người Khốn Khổ,J.K. Rowling,NXB Tổng Hợp TP.HCM,235650.0,310066,74416.0,24,3.5,14119
+34,Hoàng Tử Bé,Victor Hugo,NXB Phụ Nữ Việt Nam,279360.0,310400,31040.0,10,5.0,19879
+35,Deep Work,Dale Carnegie,NXB Kim Đồng,39040.0,72297,33257.0,46,3.9,19388
+36,Những Người Khốn Khổ,Nguyễn Ngọc Tư,NXB Trẻ,215269.0,269086,53817.0,20,4.2,8714
+37,Atomic Habits,Nguyễn Ngọc Tư,NXB Thế Giới,254508.0,310376,55868.0,18,3.4,10086
+38,Cây Cam Ngọt Của Tôi,Victor Hugo,NXB Tổng Hợp TP.HCM,368954.0,384327,15373.0,4,4.2,9325
+39,Cây Cam Ngọt Của Tôi,Victor Hugo,NXB Trẻ,21915.0,42145,20230.0,48,4.6,1081
+40,The Psychology of Money,James Clear,NXB Kim Đồng,226922.0,338690,111768.0,33,4.3,15290
+41,Nhà Giả Kim,Victor Hugo,NXB Tổng Hợp TP.HCM,166097.0,240720,74623.0,31,3.5,8402
+42,Hoàng Tử Bé,Antoine de Saint-Exupéry,NXB Lao Động,146919.0,216058,69139.0,32,4.4,6981
+43,Nhà Giả Kim,J.K. Rowling,NXB Kim Đồng,59773.0,85390,25617.0,30,4.7,10014
+44,Hoàng Tử Bé,Victor Hugo,NXB Kim Đồng,67689.0,127716,60027.0,47,3.5,10064
+45,Những Người Khốn Khổ,Victor Hugo,NXB Phụ Nữ Việt Nam,174416.0,202809,28393.0,14,3.6,15063
+46,Atomic Habits,Dale Carnegie,NXB Thế Giới,21073.0,41320,20247.0,49,3.3,17280
+47,Dế Mèn Phiêu Lưu Ký,Paulo Coelho,NXB Trẻ,119063.0,133779,14716.0,11,4.3,15000
+48,Dế Mèn Phiêu Lưu Ký,James Clear,NXB Kim Đồng,138829.0,252416,113587.0,45,4.1,8293
+49,Atomic Habits,Paulo Coelho,NXB Lao Động,129446.0,168112,38666.0,23,3.1,16237
+50,Sherlock Holmes,Nguyễn Nhật Ánh,NXB Thế Giới,166277.0,251935,85658.0,34,3.4,15659
+51,Hoàng Tử Bé,Paulo Coelho,NXB Văn Học,178639.0,229024,50385.0,22,4.6,6935
+52,Những Người Khốn Khổ,J.K. Rowling,NXB Lao Động,289972.0,491478,201506.0,41,3.4,14285
+53,Muôn Kiếp Nhân Sinh,James Clear,NXB Kim Đồng,283659.0,341758,58099.0,17,3.4,6641
+54,Sherlock Holmes,Dale Carnegie,NXB Văn Học,144467.0,233012,88545.0,38,3.8,5098
+55,Harry Potter,Victor Hugo,NXB Trẻ,70951.0,129002,58051.0,45,4.9,16492
+56,Think and Grow Rich,Paulo Coelho,NXB Trẻ,259545.0,489707,230162.0,47,4.5,17847
+57,Think and Grow Rich,Dale Carnegie,NXB Trẻ,315461.0,389458,73997.0,19,4.8,5770
+58,Think and Grow Rich,Paulo Coelho,NXB Trẻ,122908.0,161721,38813.0,24,4.3,16718
+59,Harry Potter,Nguyễn Ngọc Tư,NXB Kim Đồng,132565.0,254933,122368.0,48,3.5,2176
+60,Hoàng Tử Bé,James Clear,NXB Trẻ,220359.0,440718,220359.0,50,3.2,7952
+61,Hoàng Tử Bé,Nguyễn Ngọc Tư,NXB Trẻ,34593.0,47387,12794.0,27,3.6,17027
+62,The Psychology of Money,J.K. Rowling,NXB Phụ Nữ Việt Nam,165568.0,275946,110378.0,40,4.3,8076
+63,Harry Potter,James Clear,NXB Trẻ,264172.0,278076,13904.0,5,3.1,6203
+64,Không Gia Đình,Nguyễn Nhật Ánh,NXB Văn Học,144612.0,222480,77868.0,35,4.8,6807
+65,Đắc Nhân Tâm,J.K. Rowling,NXB Trẻ,278167.0,316099,37932.0,12,3.3,9163
+66,Không Gia Đình,Nguyễn Ngọc Tư,NXB Văn Học,295391.0,461549,166158.0,36,4.7,9480
+67,Cây Cam Ngọt Của Tôi,Paulo Coelho,NXB Tổng Hợp TP.HCM,65350.0,81688,16338.0,20,4.7,8631
+68,Tuổi Trẻ Đáng Giá Bao Nhiêu,Victor Hugo,NXB Văn Học,57198.0,103996,46798.0,45,4.1,7630
+69,Dế Mèn Phiêu Lưu Ký,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,271022.0,291421,20399.0,7,3.1,9553
+70,Sherlock Holmes,Tony Buổi Sáng,NXB Kim Đồng,305678.0,377380,71702.0,19,3.6,2366
+71,Những Người Khốn Khổ,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,124501.0,183089,58588.0,32,3.2,9425
+72,Harry Potter,Tony Buổi Sáng,NXB Trẻ,220452.0,306184,85732.0,28,3.9,16910
+73,Deep Work,Robin Sharma,NXB Phụ Nữ Việt Nam,130257.0,169165,38908.0,23,4.7,7794
+74,Cây Cam Ngọt Của Tôi,Robin Sharma,NXB Phụ Nữ Việt Nam,211839.0,365240,153401.0,42,4.3,6615
+75,Tuổi Trẻ Đáng Giá Bao Nhiêu,Robin Sharma,NXB Kim Đồng,104649.0,177371,72722.0,41,4.4,8452
+76,Sherlock Holmes,Nguyễn Nhật Ánh,NXB Kim Đồng,31699.0,60959,29260.0,48,4.8,14015
+77,The Psychology of Money,James Clear,NXB Lao Động,91372.0,95179,3807.0,4,4.9,6432
+78,Những Người Khốn Khổ,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,292895.0,366119,73224.0,20,3.9,19882
+79,The Psychology of Money,J.K. Rowling,NXB Tổng Hợp TP.HCM,375681.0,375681,0.0,0,3.2,19863
+80,Dế Mèn Phiêu Lưu Ký,Paulo Coelho,NXB Trẻ,207754.0,384730,176976.0,46,4.3,15424
+81,Sherlock Holmes,Antoine de Saint-Exupéry,NXB Trẻ,32307.0,64615,32308.0,50,4.2,1343
+82,Think and Grow Rich,J.K. Rowling,NXB Trẻ,283743.0,465153,181410.0,39,4.2,11946
+83,Harry Potter,Paulo Coelho,NXB Phụ Nữ Việt Nam,92420.0,184840,92420.0,50,4.0,4154
+84,Không Gia Đình,Tony Buổi Sáng,NXB Lao Động,52114.0,72381,20267.0,28,4.6,11534
+85,Muôn Kiếp Nhân Sinh,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,192064.0,243119,51055.0,21,4.6,12386
+86,Think and Grow Rich,J.K. Rowling,NXB Phụ Nữ Việt Nam,51176.0,98416,47240.0,48,4.2,13075
+87,Nhà Giả Kim,Paulo Coelho,NXB Lao Động,26824.0,43974,17150.0,39,4.7,6724
+88,Dế Mèn Phiêu Lưu Ký,Antoine de Saint-Exupéry,NXB Thế Giới,400657.0,421744,21087.0,5,3.9,16364
+89,Dế Mèn Phiêu Lưu Ký,Paulo Coelho,NXB Kim Đồng,196549.0,327581,131032.0,40,3.4,7651
+90,Cây Cam Ngọt Của Tôi,Robin Sharma,NXB Kim Đồng,138452.0,242898,104446.0,43,3.3,4143
+91,Tuổi Trẻ Đáng Giá Bao Nhiêu,Tony Buổi Sáng,NXB Trẻ,164451.0,269592,105141.0,39,3.2,16906
+92,Think and Grow Rich,Nguyễn Nhật Ánh,NXB Thế Giới,229435.0,297968,68533.0,23,4.6,8290
+93,Cây Cam Ngọt Của Tôi,Dale Carnegie,NXB Trẻ,59227.0,81133,21906.0,27,4.9,7165
+94,Think and Grow Rich,Antoine de Saint-Exupéry,NXB Lao Động,86385.0,172771,86386.0,50,3.7,15055
+95,Tuổi Trẻ Đáng Giá Bao Nhiêu,Robin Sharma,NXB Trẻ,310345.0,470220,159875.0,34,4.3,3307
+96,Dế Mèn Phiêu Lưu Ký,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,171089.0,335468,164379.0,49,4.8,8498
+97,Tuổi Trẻ Đáng Giá Bao Nhiêu,Dale Carnegie,NXB Văn Học,406989.0,490348,83359.0,17,3.0,10741
+98,Muôn Kiếp Nhân Sinh,J.K. Rowling,NXB Tổng Hợp TP.HCM,177681.0,265196,87515.0,33,4.8,4069
+99,Những Người Khốn Khổ,Nguyễn Nhật Ánh,NXB Thế Giới,40130.0,51449,11319.0,22,4.1,19004
+100,Không Gia Đình,Dale Carnegie,NXB Phụ Nữ Việt Nam,228363.0,356817,128454.0,36,3.1,10179
+101,Nhà Giả Kim,Nguyễn Nhật Ánh,NXB Phụ Nữ Việt Nam,83621.0,154853,71232.0,46,4.9,15749
+102,Deep Work,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,279028.0,410336,131308.0,32,3.3,4163
+103,Dế Mèn Phiêu Lưu Ký,Victor Hugo,NXB Thế Giới,193617.0,233273,39656.0,17,3.7,2821
+104,Tuổi Trẻ Đáng Giá Bao Nhiêu,Dale Carnegie,NXB Trẻ,297111.0,450168,153057.0,34,4.6,18068
+105,Tuổi Trẻ Đáng Giá Bao Nhiêu,Dale Carnegie,NXB Tổng Hợp TP.HCM,104215.0,208429,104214.0,50,4.9,11909
+106,Harry Potter,Robin Sharma,NXB Phụ Nữ Việt Nam,312488.0,372010,59522.0,16,4.9,11377
+107,Dế Mèn Phiêu Lưu Ký,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,180012.0,187513,7501.0,4,4.7,13647
+108,Dế Mèn Phiêu Lưu Ký,Nguyễn Ngọc Tư,NXB Thế Giới,251972.0,296438,44466.0,15,3.7,4691
+109,Những Người Khốn Khổ,Dale Carnegie,NXB Phụ Nữ Việt Nam,39359.0,62475,23116.0,37,4.7,15592
+110,Cây Cam Ngọt Của Tôi,Nguyễn Ngọc Tư,NXB Kim Đồng,36355.0,43280,6925.0,16,4.1,19255
+111,The Psychology of Money,Dale Carnegie,NXB Thế Giới,349973.0,460491,110518.0,24,3.4,19137
+112,Cây Cam Ngọt Của Tôi,Paulo Coelho,NXB Văn Học,173401.0,309644,136243.0,44,4.1,12977
+113,Sherlock Holmes,J.K. Rowling,NXB Lao Động,265529.0,384825,119296.0,31,4.3,7042
+114,Dế Mèn Phiêu Lưu Ký,Nguyễn Nhật Ánh,NXB Văn Học,112985.0,213180,100195.0,47,4.6,15532
+115,Harry Potter,Antoine de Saint-Exupéry,NXB Trẻ,150213.0,200284,50071.0,25,3.8,7684
+116,Không Gia Đình,Nguyễn Nhật Ánh,NXB Văn Học,177154.0,224245,47091.0,21,4.8,11334
+117,Atomic Habits,Paulo Coelho,NXB Phụ Nữ Việt Nam,392203.0,396165,3962.0,1,4.1,9009
+118,Không Gia Đình,Robin Sharma,NXB Lao Động,341223.0,411112,69889.0,17,4.3,11947
+119,Cây Cam Ngọt Của Tôi,Tony Buổi Sáng,NXB Kim Đồng,225819.0,285847,60028.0,21,4.3,3665
+120,Sherlock Holmes,Paulo Coelho,NXB Tổng Hợp TP.HCM,87020.0,140355,53335.0,38,4.8,737
+121,Dế Mèn Phiêu Lưu Ký,Dale Carnegie,NXB Phụ Nữ Việt Nam,202755.0,259942,57187.0,22,4.1,19613
+122,Sherlock Holmes,James Clear,NXB Kim Đồng,290142.0,392084,101942.0,26,4.8,17814
+123,Muôn Kiếp Nhân Sinh,J.K. Rowling,NXB Lao Động,94676.0,175326,80650.0,46,3.6,3756
+124,Nhà Giả Kim,James Clear,NXB Kim Đồng,301426.0,313985,12559.0,4,3.1,10671
+125,Không Gia Đình,James Clear,NXB Trẻ,333633.0,340442,6809.0,2,3.6,14201
+126,Nhà Giả Kim,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,134605.0,210321,75716.0,36,4.8,3
+127,Cây Cam Ngọt Của Tôi,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,295751.0,369689,73938.0,20,4.2,217
+128,Đắc Nhân Tâm,Dale Carnegie,NXB Văn Học,233547.0,333638,100091.0,30,3.4,15124
+129,Cây Cam Ngọt Của Tôi,Dale Carnegie,NXB Tổng Hợp TP.HCM,97213.0,136920,39707.0,29,4.8,10529
+130,Dế Mèn Phiêu Lưu Ký,Nguyễn Nhật Ánh,NXB Thế Giới,78487.0,115422,36935.0,32,3.3,6828
+131,Những Người Khốn Khổ,James Clear,NXB Trẻ,192209.0,263300,71091.0,27,4.0,3844
+132,Deep Work,Tony Buổi Sáng,NXB Văn Học,178195.0,356390,178195.0,50,3.7,19740
+133,Think and Grow Rich,Nguyễn Nhật Ánh,NXB Trẻ,201024.0,209400,8376.0,4,4.8,14407
+134,Atomic Habits,Dale Carnegie,NXB Thế Giới,309926.0,309926,0.0,0,3.3,9454
+135,Atomic Habits,Tony Buổi Sáng,NXB Kim Đồng,169326.0,297063,127737.0,43,4.6,15056
+136,The Psychology of Money,James Clear,NXB Trẻ,348414.0,348414,0.0,0,3.1,6793
+137,Những Người Khốn Khổ,Antoine de Saint-Exupéry,NXB Văn Học,42472.0,57394,14922.0,26,3.6,6997
+138,Nhà Giả Kim,Dale Carnegie,NXB Lao Động,82438.0,132964,50526.0,38,3.9,1575
+139,Không Gia Đình,J.K. Rowling,NXB Văn Học,36488.0,37233,745.0,2,4.7,15688
+140,Tuổi Trẻ Đáng Giá Bao Nhiêu,Tony Buổi Sáng,NXB Lao Động,158106.0,259190,101084.0,39,4.9,15177
+141,Đắc Nhân Tâm,Robin Sharma,NXB Thế Giới,145952.0,205566,59614.0,29,3.0,10884
+142,Dế Mèn Phiêu Lưu Ký,Robin Sharma,NXB Thế Giới,330405.0,429097,98692.0,23,4.4,19907
+143,Deep Work,Antoine de Saint-Exupéry,NXB Lao Động,285357.0,331810,46453.0,14,4.8,18754
+144,Harry Potter,Victor Hugo,NXB Văn Học,35408.0,41657,6249.0,15,3.1,7334
+145,Tuổi Trẻ Đáng Giá Bao Nhiêu,J.K. Rowling,NXB Kim Đồng,151659.0,204944,53285.0,26,3.6,10814
+146,Những Người Khốn Khổ,Paulo Coelho,NXB Tổng Hợp TP.HCM,63507.0,72997,9490.0,13,3.9,5931
+147,Deep Work,Nguyễn Ngọc Tư,NXB Thế Giới,231116.0,312319,81203.0,26,3.6,5286
+148,Hoàng Tử Bé,Nguyễn Ngọc Tư,NXB Thế Giới,85600.0,138064,52464.0,38,3.4,3503
+149,Đắc Nhân Tâm,Paulo Coelho,NXB Thế Giới,160625.0,272245,111620.0,41,3.0,4864
+150,Tuổi Trẻ Đáng Giá Bao Nhiêu,Dale Carnegie,NXB Tổng Hợp TP.HCM,198827.0,261615,62788.0,24,3.8,1428
+151,Không Gia Đình,Dale Carnegie,NXB Thế Giới,142165.0,218715,76550.0,35,3.6,16212
+152,Harry Potter,Robin Sharma,NXB Tổng Hợp TP.HCM,68775.0,110928,42153.0,38,3.9,13333
+153,Tuổi Trẻ Đáng Giá Bao Nhiêu,J.K. Rowling,NXB Phụ Nữ Việt Nam,255010.0,432220,177210.0,41,3.1,6017
+154,Những Người Khốn Khổ,Dale Carnegie,NXB Thế Giới,283588.0,399420,115832.0,29,4.0,19624
+155,Dế Mèn Phiêu Lưu Ký,Robin Sharma,NXB Kim Đồng,157921.0,162805,4884.0,3,3.6,10108
+156,Không Gia Đình,J.K. Rowling,NXB Tổng Hợp TP.HCM,228854.0,440103,211249.0,48,3.2,1430
+157,Hoàng Tử Bé,J.K. Rowling,NXB Phụ Nữ Việt Nam,294786.0,316974,22188.0,7,3.8,4817
+158,Atomic Habits,James Clear,NXB Phụ Nữ Việt Nam,25215.0,43475,18260.0,42,3.7,14607
+159,Dế Mèn Phiêu Lưu Ký,J.K. Rowling,NXB Trẻ,255066.0,262955,7889.0,3,3.7,12660
+160,Atomic Habits,James Clear,NXB Lao Động,90404.0,161435,71031.0,44,4.8,5877
+161,Sherlock Holmes,Victor Hugo,NXB Tổng Hợp TP.HCM,259606.0,499242,239636.0,48,4.1,12151
+162,Sherlock Holmes,Paulo Coelho,NXB Phụ Nữ Việt Nam,73157.0,81285,8128.0,10,4.1,2520
+163,Hoàng Tử Bé,James Clear,NXB Tổng Hợp TP.HCM,398757.0,469126,70369.0,15,4.5,15818
+164,Sherlock Holmes,Antoine de Saint-Exupéry,NXB Thế Giới,266168.0,391424,125256.0,32,3.5,702
+165,Những Người Khốn Khổ,James Clear,NXB Lao Động,381420.0,448729,67309.0,15,4.8,18428
+166,Cây Cam Ngọt Của Tôi,J.K. Rowling,NXB Văn Học,170152.0,333632,163480.0,49,3.2,11966
+167,Deep Work,Paulo Coelho,NXB Trẻ,367976.0,379357,11381.0,3,3.5,9166
+168,Đắc Nhân Tâm,Antoine de Saint-Exupéry,NXB Lao Động,224134.0,243624,19490.0,8,4.7,11383
+169,Đắc Nhân Tâm,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,384945.0,423017,38072.0,9,4.8,12414
+170,Atomic Habits,Tony Buổi Sáng,NXB Trẻ,32729.0,43064,10335.0,24,4.4,19355
+171,Dế Mèn Phiêu Lưu Ký,Robin Sharma,NXB Lao Động,171377.0,231590,60213.0,26,3.1,11822
+172,Những Người Khốn Khổ,Dale Carnegie,NXB Kim Đồng,203028.0,278120,75092.0,27,4.4,19811
+173,Muôn Kiếp Nhân Sinh,Robin Sharma,NXB Lao Động,122210.0,188015,65805.0,35,3.8,10473
+174,The Psychology of Money,Victor Hugo,NXB Thế Giới,351193.0,433572,82379.0,19,4.4,4731
+175,Sherlock Holmes,Paulo Coelho,NXB Văn Học,284979.0,313164,28185.0,9,3.1,5663
+176,Không Gia Đình,Robin Sharma,NXB Tổng Hợp TP.HCM,443756.0,493062,49306.0,10,3.3,18917
+177,Tuổi Trẻ Đáng Giá Bao Nhiêu,Dale Carnegie,NXB Lao Động,54720.0,72960,18240.0,25,3.2,18763
+178,Hoàng Tử Bé,Dale Carnegie,NXB Thế Giới,100561.0,141635,41074.0,29,3.5,14915
+179,Sherlock Holmes,Robin Sharma,NXB Thế Giới,133249.0,143278,10029.0,7,3.9,5939
+180,The Psychology of Money,Dale Carnegie,NXB Văn Học,207109.0,300158,93049.0,31,3.9,1767
+181,Đắc Nhân Tâm,J.K. Rowling,NXB Văn Học,39236.0,53748,14512.0,27,4.7,1674
+182,Nhà Giả Kim,Antoine de Saint-Exupéry,NXB Văn Học,239758.0,292388,52630.0,18,3.5,13160
+183,Atomic Habits,Antoine de Saint-Exupéry,NXB Thế Giới,91071.0,178570,87499.0,49,3.5,6476
+184,Không Gia Đình,Dale Carnegie,NXB Trẻ,285295.0,413471,128176.0,31,4.2,13986
+185,Atomic Habits,Nguyễn Ngọc Tư,NXB Trẻ,294685.0,446493,151808.0,34,4.1,3021
+186,Deep Work,Tony Buổi Sáng,NXB Văn Học,151240.0,240063,88823.0,37,3.5,4183
+187,Không Gia Đình,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,166290.0,230959,64669.0,28,4.7,15566
+188,Đắc Nhân Tâm,Victor Hugo,NXB Trẻ,55013.0,55569,556.0,1,3.6,447
+189,Đắc Nhân Tâm,Nguyễn Ngọc Tư,NXB Phụ Nữ Việt Nam,324840.0,444986,120146.0,27,4.5,2616
+190,Dế Mèn Phiêu Lưu Ký,James Clear,NXB Lao Động,350113.0,460675,110562.0,24,4.2,7330
+191,Deep Work,Antoine de Saint-Exupéry,NXB Thế Giới,256706.0,342274,85568.0,25,4.4,9475
+192,Sherlock Holmes,Nguyễn Nhật Ánh,NXB Thế Giới,37389.0,70546,33157.0,47,4.0,15781
+193,Deep Work,Tony Buổi Sáng,NXB Kim Đồng,152833.0,235128,82295.0,35,4.1,16005
+194,Think and Grow Rich,Victor Hugo,NXB Tổng Hợp TP.HCM,51347.0,64184,12837.0,20,3.2,8511
+195,Không Gia Đình,Dale Carnegie,NXB Tổng Hợp TP.HCM,310102.0,319693,9591.0,3,3.9,3604
+196,Tuổi Trẻ Đáng Giá Bao Nhiêu,Robin Sharma,NXB Thế Giới,201187.0,346874,145687.0,42,3.5,13653
+197,Không Gia Đình,Robin Sharma,NXB Văn Học,110576.0,115183,4607.0,4,3.8,4429
+198,Tuổi Trẻ Đáng Giá Bao Nhiêu,Tony Buổi Sáng,NXB Văn Học,311550.0,389437,77887.0,20,4.1,19568
+199,Atomic Habits,Tony Buổi Sáng,NXB Thế Giới,132826.0,181954,49128.0,27,4.2,3771
+200,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,253283.0,255841,2558.0,1,3.9,18886
+201,Tuổi Trẻ Đáng Giá Bao Nhiêu,J.K. Rowling,NXB Lao Động,58316.0,104136,45820.0,44,4.6,15286
+202,Muôn Kiếp Nhân Sinh,J.K. Rowling,NXB Tổng Hợp TP.HCM,255344.0,398975,143631.0,36,3.2,15945
+203,Think and Grow Rich,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,285551.0,426196,140645.0,33,4.4,19424
+204,Đắc Nhân Tâm,Nguyễn Ngọc Tư,NXB Phụ Nữ Việt Nam,96187.0,143563,47376.0,33,3.8,15851
+205,Atomic Habits,Nguyễn Ngọc Tư,NXB Thế Giới,90510.0,156051,65541.0,42,4.6,5574
+206,Deep Work,Dale Carnegie,NXB Thế Giới,55106.0,91844,36738.0,40,4.5,9403
+207,Atomic Habits,James Clear,NXB Phụ Nữ Việt Nam,471845.0,481474,9629.0,2,3.0,6112
+208,Think and Grow Rich,Robin Sharma,NXB Thế Giới,320800.0,360449,39649.0,11,4.9,16376
+209,Dế Mèn Phiêu Lưu Ký,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,202345.0,208603,6258.0,3,3.7,4793
+210,Đắc Nhân Tâm,Paulo Coelho,NXB Văn Học,233441.0,259379,25938.0,10,4.7,10254
+211,Cây Cam Ngọt Của Tôi,Victor Hugo,NXB Kim Đồng,118089.0,178922,60833.0,34,4.3,8984
+212,Dế Mèn Phiêu Lưu Ký,James Clear,NXB Lao Động,454774.0,464055,9281.0,2,4.2,17913
+213,Muôn Kiếp Nhân Sinh,Antoine de Saint-Exupéry,NXB Kim Đồng,71361.0,139923,68562.0,49,3.9,13057
+214,Sherlock Holmes,Dale Carnegie,NXB Lao Động,50505.0,95293,44788.0,47,3.2,5807
+215,The Psychology of Money,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,197054.0,294110,97056.0,33,3.6,15
+216,The Psychology of Money,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,124882.0,132853,7971.0,6,3.1,9819
+217,Think and Grow Rich,J.K. Rowling,NXB Thế Giới,110872.0,158389,47517.0,30,4.6,13012
+218,Deep Work,Paulo Coelho,NXB Phụ Nữ Việt Nam,184309.0,279256,94947.0,34,4.5,16582
+219,Nhà Giả Kim,Nguyễn Nhật Ánh,NXB Lao Động,118072.0,196786,78714.0,40,4.6,3316
+220,Tuổi Trẻ Đáng Giá Bao Nhiêu,Paulo Coelho,NXB Kim Đồng,129295.0,243953,114658.0,47,3.1,13782
+221,Harry Potter,Tony Buổi Sáng,NXB Thế Giới,199155.0,245870,46715.0,19,3.7,11581
+222,Tuổi Trẻ Đáng Giá Bao Nhiêu,Antoine de Saint-Exupéry,NXB Lao Động,45551.0,49512,3961.0,8,4.5,14913
+223,Nhà Giả Kim,Nguyễn Nhật Ánh,NXB Thế Giới,69280.0,101882,32602.0,32,3.3,13681
+224,Think and Grow Rich,Dale Carnegie,NXB Phụ Nữ Việt Nam,206451.0,245775,39324.0,16,4.5,8343
+225,Atomic Habits,Dale Carnegie,NXB Tổng Hợp TP.HCM,169379.0,225839,56460.0,25,3.1,4857
+226,Đắc Nhân Tâm,Tony Buổi Sáng,NXB Thế Giới,81312.0,116160,34848.0,30,4.0,17434
+227,Cây Cam Ngọt Của Tôi,Dale Carnegie,NXB Văn Học,35516.0,40823,5307.0,13,3.7,9146
+228,Cây Cam Ngọt Của Tôi,Tony Buổi Sáng,NXB Trẻ,386219.0,386219,0.0,0,3.9,11767
+229,Deep Work,J.K. Rowling,NXB Thế Giới,177222.0,276910,99688.0,36,4.6,7721
+230,Hoàng Tử Bé,Nguyễn Ngọc Tư,NXB Lao Động,47488.0,76593,29105.0,38,3.1,19178
+231,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Ngọc Tư,NXB Thế Giới,417303.0,417303,0.0,0,3.3,8321
+232,The Psychology of Money,Dale Carnegie,NXB Văn Học,63518.0,87011,23493.0,27,4.0,9722
+233,Muôn Kiếp Nhân Sinh,Dale Carnegie,NXB Thế Giới,340079.0,395441,55362.0,14,3.5,19544
+234,Dế Mèn Phiêu Lưu Ký,Nguyễn Ngọc Tư,NXB Kim Đồng,133066.0,195686,62620.0,32,4.6,1497
+235,The Psychology of Money,Dale Carnegie,NXB Trẻ,390160.0,394101,3941.0,1,3.8,3661
+236,Đắc Nhân Tâm,Victor Hugo,NXB Lao Động,117231.0,156308,39077.0,25,4.9,8915
+237,Dế Mèn Phiêu Lưu Ký,Antoine de Saint-Exupéry,NXB Văn Học,379212.0,456882,77670.0,17,4.2,8638
+238,Dế Mèn Phiêu Lưu Ký,Nguyễn Ngọc Tư,NXB Trẻ,413964.0,454906,40942.0,9,3.0,13199
+239,Sherlock Holmes,Paulo Coelho,NXB Kim Đồng,232670.0,342162,109492.0,32,4.1,35
+240,Think and Grow Rich,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,136748.0,204101,67353.0,33,3.8,7604
+241,Không Gia Đình,Victor Hugo,NXB Trẻ,98129.0,144307,46178.0,32,3.4,18417
+242,Dế Mèn Phiêu Lưu Ký,Victor Hugo,NXB Lao Động,380675.0,494383,113708.0,23,3.9,12105
+243,Nhà Giả Kim,Tony Buổi Sáng,NXB Lao Động,95287.0,136124,40837.0,30,3.3,12300
+244,Hoàng Tử Bé,Dale Carnegie,NXB Tổng Hợp TP.HCM,223146.0,305680,82534.0,27,4.6,9181
+245,Dế Mèn Phiêu Lưu Ký,Paulo Coelho,NXB Phụ Nữ Việt Nam,365568.0,380800,15232.0,4,3.5,5601
+246,The Psychology of Money,Antoine de Saint-Exupéry,NXB Trẻ,79539.0,88377,8838.0,10,4.9,14039
+247,Think and Grow Rich,J.K. Rowling,NXB Văn Học,166657.0,282470,115813.0,41,3.3,3416
+248,The Psychology of Money,Nguyễn Nhật Ánh,NXB Phụ Nữ Việt Nam,120692.0,227720,107028.0,47,3.8,9257
+249,Đắc Nhân Tâm,James Clear,NXB Thế Giới,174899.0,277617,102718.0,37,4.1,17441
+250,Deep Work,Robin Sharma,NXB Văn Học,267675.0,326433,58758.0,18,4.1,6277
+251,Không Gia Đình,J.K. Rowling,NXB Văn Học,297684.0,330760,33076.0,10,3.9,12901
+252,Tuổi Trẻ Đáng Giá Bao Nhiêu,Victor Hugo,NXB Thế Giới,48529.0,60661,12132.0,20,3.6,4218
+253,Đắc Nhân Tâm,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,296127.0,477625,181498.0,38,3.2,2237
+254,Harry Potter,Dale Carnegie,NXB Phụ Nữ Việt Nam,282032.0,386345,104313.0,27,3.7,1878
+255,Cây Cam Ngọt Của Tôi,Victor Hugo,NXB Văn Học,224360.0,393614,169254.0,43,4.2,673
+256,Muôn Kiếp Nhân Sinh,James Clear,NXB Văn Học,119838.0,221922,102084.0,46,5.0,7614
+257,Muôn Kiếp Nhân Sinh,James Clear,NXB Văn Học,87994.0,111385,23391.0,21,4.1,18250
+258,Muôn Kiếp Nhân Sinh,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,72361.0,75376,3015.0,4,3.7,7794
+259,Nhà Giả Kim,Tony Buổi Sáng,NXB Văn Học,213868.0,237631,23763.0,10,4.2,15344
+260,Muôn Kiếp Nhân Sinh,Robin Sharma,NXB Phụ Nữ Việt Nam,422010.0,422010,0.0,0,3.1,3105
+261,Những Người Khốn Khổ,Tony Buổi Sáng,NXB Lao Động,162337.0,238731,76394.0,32,3.3,6240
+262,Think and Grow Rich,James Clear,NXB Kim Đồng,278502.0,497325,218823.0,44,4.6,381
+263,Nhà Giả Kim,Victor Hugo,NXB Trẻ,181377.0,335883,154506.0,46,3.0,15996
+264,Những Người Khốn Khổ,Victor Hugo,NXB Văn Học,250014.0,480797,230783.0,48,4.9,8347
+265,Think and Grow Rich,Nguyễn Nhật Ánh,NXB Kim Đồng,56103.0,57838,1735.0,3,4.4,3533
+266,Muôn Kiếp Nhân Sinh,Nguyễn Ngọc Tư,NXB Kim Đồng,258977.0,375329,116352.0,31,3.8,3784
+267,Những Người Khốn Khổ,Victor Hugo,NXB Văn Học,396036.0,488933,92897.0,19,3.8,16232
+268,Tuổi Trẻ Đáng Giá Bao Nhiêu,Victor Hugo,NXB Thế Giới,217047.0,425582,208535.0,49,5.0,18650
+269,Nhà Giả Kim,Dale Carnegie,NXB Văn Học,71695.0,89619,17924.0,20,3.9,12194
+270,Cây Cam Ngọt Của Tôi,Robin Sharma,NXB Thế Giới,246894.0,425679,178785.0,42,4.6,3057
+271,Harry Potter,Nguyễn Nhật Ánh,NXB Lao Động,51685.0,58073,6388.0,11,3.7,18880
+272,Đắc Nhân Tâm,James Clear,NXB Kim Đồng,73425.0,91781,18356.0,20,3.5,6662
+273,Atomic Habits,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,241324.0,438771,197447.0,45,3.8,15018
+274,Tuổi Trẻ Đáng Giá Bao Nhiêu,J.K. Rowling,NXB Văn Học,294338.0,316492,22154.0,7,3.6,15477
+275,Dế Mèn Phiêu Lưu Ký,Tony Buổi Sáng,NXB Kim Đồng,290265.0,353982,63717.0,18,5.0,7990
+276,Dế Mèn Phiêu Lưu Ký,J.K. Rowling,NXB Lao Động,178069.0,228294,50225.0,22,3.4,12952
+277,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Ngọc Tư,NXB Thế Giới,230435.0,311398,80963.0,26,4.5,19628
+278,Harry Potter,J.K. Rowling,NXB Văn Học,176714.0,267748,91034.0,34,3.6,18458
+279,Sherlock Holmes,James Clear,NXB Thế Giới,199537.0,293437,93900.0,32,3.8,4019
+280,Sherlock Holmes,Nguyễn Nhật Ánh,NXB Thế Giới,143707.0,186633,42926.0,23,5.0,15834
+281,Cây Cam Ngọt Của Tôi,Robin Sharma,NXB Thế Giới,261863.0,374090,112227.0,30,4.8,5574
+282,Think and Grow Rich,J.K. Rowling,NXB Lao Động,70055.0,104560,34505.0,33,3.0,13540
+283,Hoàng Tử Bé,Victor Hugo,NXB Phụ Nữ Việt Nam,241297.0,416030,174733.0,42,4.0,9629
+284,Hoàng Tử Bé,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,107590.0,206903,99313.0,48,4.1,16878
+285,Hoàng Tử Bé,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,184996.0,237174,52178.0,22,4.9,5929
+286,Dế Mèn Phiêu Lưu Ký,Nguyễn Nhật Ánh,NXB Văn Học,338133.0,375703,37570.0,10,4.7,861
+287,Atomic Habits,Nguyễn Ngọc Tư,NXB Phụ Nữ Việt Nam,136825.0,258161,121336.0,47,3.4,3329
+288,Muôn Kiếp Nhân Sinh,Tony Buổi Sáng,NXB Lao Động,198522.0,218156,19634.0,9,4.3,839
+289,Cây Cam Ngọt Của Tôi,J.K. Rowling,NXB Trẻ,32966.0,35447,2481.0,7,4.8,4978
+290,Không Gia Đình,James Clear,NXB Tổng Hợp TP.HCM,301051.0,401401,100350.0,25,4.9,11605
+291,Atomic Habits,Nguyễn Ngọc Tư,NXB Thế Giới,65199.0,91830,26631.0,29,4.4,1794
+292,Không Gia Đình,Dale Carnegie,NXB Phụ Nữ Việt Nam,72983.0,82003,9020.0,11,3.5,15256
+293,Deep Work,James Clear,NXB Tổng Hợp TP.HCM,158743.0,311260,152517.0,49,4.7,4686
+294,Không Gia Đình,James Clear,NXB Tổng Hợp TP.HCM,232001.0,446156,214155.0,48,4.9,11882
+295,Atomic Habits,Nguyễn Nhật Ánh,NXB Phụ Nữ Việt Nam,69773.0,122409,52636.0,43,3.7,10044
+296,Harry Potter,J.K. Rowling,NXB Kim Đồng,300928.0,330690,29762.0,9,4.2,18480
+297,Đắc Nhân Tâm,Robin Sharma,NXB Văn Học,43699.0,69363,25664.0,37,4.2,17424
+298,Những Người Khốn Khổ,Nguyễn Ngọc Tư,NXB Trẻ,223511.0,354780,131269.0,37,4.8,5258
+299,Nhà Giả Kim,J.K. Rowling,NXB Trẻ,60014.0,80018,20004.0,25,3.9,6620
+300,Atomic Habits,J.K. Rowling,NXB Kim Đồng,194318.0,249126,54808.0,22,4.9,8083
+301,Tuổi Trẻ Đáng Giá Bao Nhiêu,Paulo Coelho,NXB Kim Đồng,118794.0,177304,58510.0,33,3.0,1643
+302,Deep Work,James Clear,NXB Tổng Hợp TP.HCM,93446.0,99411,5965.0,6,3.6,15186
+303,Những Người Khốn Khổ,J.K. Rowling,NXB Trẻ,256471.0,284968,28497.0,10,4.0,6545
+304,Đắc Nhân Tâm,Dale Carnegie,NXB Tổng Hợp TP.HCM,198582.0,202635,4053.0,2,3.2,18145
+305,Cây Cam Ngọt Của Tôi,Antoine de Saint-Exupéry,NXB Lao Động,124711.0,155889,31178.0,20,4.8,19615
+306,Dế Mèn Phiêu Lưu Ký,J.K. Rowling,NXB Phụ Nữ Việt Nam,39664.0,40891,1227.0,3,3.3,6747
+307,The Psychology of Money,Victor Hugo,NXB Kim Đồng,93904.0,117380,23476.0,20,4.5,14856
+308,Nhà Giả Kim,Robin Sharma,NXB Văn Học,120839.0,145589,24750.0,17,4.4,6356
+309,Không Gia Đình,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,96076.0,129833,33757.0,26,3.6,17165
+310,Nhà Giả Kim,J.K. Rowling,NXB Phụ Nữ Việt Nam,324100.0,385833,61733.0,16,3.0,4618
+311,Hoàng Tử Bé,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,251957.0,449923,197966.0,44,3.7,10526
+312,The Psychology of Money,Nguyễn Ngọc Tư,NXB Lao Động,350982.0,381502,30520.0,8,3.9,4315
+313,Deep Work,Victor Hugo,NXB Thế Giới,61040.0,98452,37412.0,38,4.5,13007
+314,Harry Potter,Dale Carnegie,NXB Trẻ,395163.0,439070,43907.0,10,4.4,10566
+315,Những Người Khốn Khổ,J.K. Rowling,NXB Văn Học,40668.0,64553,23885.0,37,4.0,17922
+316,Dế Mèn Phiêu Lưu Ký,Victor Hugo,NXB Văn Học,193597.0,379602,186005.0,49,4.5,9113
+317,The Psychology of Money,J.K. Rowling,NXB Văn Học,241045.0,245964,4919.0,2,4.1,3088
+318,Sherlock Holmes,J.K. Rowling,NXB Lao Động,77142.0,101502,24360.0,24,4.9,4971
+319,Nhà Giả Kim,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,160868.0,191509,30641.0,16,3.9,18038
+320,Sherlock Holmes,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,87970.0,112782,24812.0,22,3.2,7751
+321,Hoàng Tử Bé,Paulo Coelho,NXB Trẻ,126378.0,154120,27742.0,18,4.6,4136
+322,Đắc Nhân Tâm,James Clear,NXB Tổng Hợp TP.HCM,21222.0,40811,19589.0,48,3.7,1309
+323,Nhà Giả Kim,Tony Buổi Sáng,NXB Thế Giới,143519.0,154321,10802.0,7,4.8,19566
+324,The Psychology of Money,Nguyễn Ngọc Tư,NXB Phụ Nữ Việt Nam,300197.0,329887,29690.0,9,4.3,7556
+325,Những Người Khốn Khổ,Victor Hugo,NXB Trẻ,348641.0,491043,142402.0,29,3.3,8435
+326,Dế Mèn Phiêu Lưu Ký,Tony Buổi Sáng,NXB Văn Học,230814.0,233145,2331.0,1,3.5,10146
+327,Muôn Kiếp Nhân Sinh,Victor Hugo,NXB Thế Giới,339889.0,472068,132179.0,28,4.5,5104
+328,Muôn Kiếp Nhân Sinh,Robin Sharma,NXB Trẻ,168841.0,286171,117330.0,41,4.0,14911
+329,Hoàng Tử Bé,Nguyễn Nhật Ánh,NXB Thế Giới,294171.0,432605,138434.0,32,3.8,18267
+330,Dế Mèn Phiêu Lưu Ký,Antoine de Saint-Exupéry,NXB Thế Giới,179849.0,199832,19983.0,10,4.8,13677
+331,Nhà Giả Kim,Victor Hugo,NXB Lao Động,277155.0,494919,217764.0,44,4.8,18982
+332,Đắc Nhân Tâm,Tony Buổi Sáng,NXB Văn Học,186068.0,372136,186068.0,50,4.2,7584
+333,Đắc Nhân Tâm,Nguyễn Nhật Ánh,NXB Thế Giới,159746.0,295826,136080.0,46,3.6,15646
+334,Deep Work,Nguyễn Ngọc Tư,NXB Văn Học,243965.0,259537,15572.0,6,3.8,11219
+335,Không Gia Đình,J.K. Rowling,NXB Kim Đồng,262238.0,476796,214558.0,45,3.3,4876
+336,Đắc Nhân Tâm,J.K. Rowling,NXB Lao Động,430786.0,448735,17949.0,4,3.0,663
+337,Đắc Nhân Tâm,Robin Sharma,NXB Lao Động,254215.0,368428,114213.0,31,3.7,19193
+338,Atomic Habits,Paulo Coelho,NXB Kim Đồng,238274.0,335597,97323.0,29,3.1,1043
+339,Dế Mèn Phiêu Lưu Ký,J.K. Rowling,NXB Trẻ,191201.0,197114,5913.0,3,4.9,19988
+340,Muôn Kiếp Nhân Sinh,James Clear,NXB Thế Giới,114816.0,171367,56551.0,33,3.4,13983
+341,Hoàng Tử Bé,Nguyễn Nhật Ánh,NXB Kim Đồng,108409.0,129058,20649.0,16,4.5,16330
+342,Những Người Khốn Khổ,Nguyễn Ngọc Tư,NXB Kim Đồng,355134.0,433090,77956.0,18,4.4,7525
+343,Think and Grow Rich,Victor Hugo,NXB Phụ Nữ Việt Nam,265892.0,282864,16972.0,6,4.4,15806
+344,Deep Work,J.K. Rowling,NXB Thế Giới,348065.0,404727,56662.0,14,4.9,9263
+345,Sherlock Holmes,J.K. Rowling,NXB Văn Học,365921.0,425489,59568.0,14,4.4,848
+346,Muôn Kiếp Nhân Sinh,Nguyễn Nhật Ánh,NXB Tổng Hợp TP.HCM,66277.0,87207,20930.0,24,5.0,10397
+347,Dế Mèn Phiêu Lưu Ký,James Clear,NXB Trẻ,151609.0,213534,61925.0,29,3.4,1240
+348,Dế Mèn Phiêu Lưu Ký,Antoine de Saint-Exupéry,NXB Lao Động,77164.0,130787,53623.0,41,4.3,18145
+349,Tuổi Trẻ Đáng Giá Bao Nhiêu,Antoine de Saint-Exupéry,NXB Trẻ,44278.0,49750,5472.0,11,4.8,6522
+350,Deep Work,Paulo Coelho,NXB Trẻ,155825.0,183323,27498.0,15,3.4,12022
+351,Những Người Khốn Khổ,Victor Hugo,NXB Kim Đồng,312191.0,473017,160826.0,34,3.5,8006
+352,Atomic Habits,J.K. Rowling,NXB Thế Giới,170293.0,189214,18921.0,10,5.0,3099
+353,Tuổi Trẻ Đáng Giá Bao Nhiêu,Victor Hugo,NXB Văn Học,230620.0,240229,9609.0,4,3.8,14881
+354,Muôn Kiếp Nhân Sinh,Tony Buổi Sáng,NXB Kim Đồng,243396.0,250924,7528.0,3,3.9,13871
+355,The Psychology of Money,Tony Buổi Sáng,NXB Văn Học,96765.0,153596,56831.0,37,4.6,109
+356,Đắc Nhân Tâm,Victor Hugo,NXB Trẻ,396114.0,421398,25284.0,6,3.2,13166
+357,Sherlock Holmes,J.K. Rowling,NXB Tổng Hợp TP.HCM,113947.0,160489,46542.0,29,4.7,19732
+358,Think and Grow Rich,Dale Carnegie,NXB Thế Giới,108032.0,171480,63448.0,37,4.2,16103
+359,Cây Cam Ngọt Của Tôi,Robin Sharma,NXB Kim Đồng,277813.0,334715,56902.0,17,3.6,5424
+360,Sherlock Holmes,Tony Buổi Sáng,NXB Văn Học,170839.0,221869,51030.0,23,3.3,6567
+361,Sherlock Holmes,Victor Hugo,NXB Tổng Hợp TP.HCM,43864.0,56236,12372.0,22,3.1,5385
+362,Những Người Khốn Khổ,Antoine de Saint-Exupéry,NXB Thế Giới,248808.0,394934,146126.0,37,4.0,969
+363,Không Gia Đình,Antoine de Saint-Exupéry,NXB Lao Động,428224.0,486618,58394.0,12,4.7,472
+364,Những Người Khốn Khổ,James Clear,NXB Trẻ,38400.0,68571,30171.0,44,4.0,18013
+365,Nhà Giả Kim,Robin Sharma,NXB Lao Động,233125.0,250672,17547.0,7,3.2,137
+366,Sherlock Holmes,Robin Sharma,NXB Lao Động,215286.0,341724,126438.0,37,3.9,6890
+367,Không Gia Đình,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,154068.0,296284,142216.0,48,3.0,15967
+368,Hoàng Tử Bé,Robin Sharma,NXB Tổng Hợp TP.HCM,117213.0,150273,33060.0,22,3.3,13230
+369,Sherlock Holmes,Antoine de Saint-Exupéry,NXB Trẻ,118318.0,149769,31451.0,21,4.0,18729
+370,Hoàng Tử Bé,Antoine de Saint-Exupéry,NXB Thế Giới,257321.0,306335,49014.0,16,4.0,966
+371,Harry Potter,Victor Hugo,NXB Tổng Hợp TP.HCM,42947.0,56509,13562.0,24,4.8,19465
+372,Dế Mèn Phiêu Lưu Ký,Tony Buổi Sáng,NXB Lao Động,205715.0,231141,25426.0,11,3.0,15520
+373,Cây Cam Ngọt Của Tôi,Nguyễn Ngọc Tư,NXB Kim Đồng,287809.0,302957,15148.0,5,4.3,9308
+374,Atomic Habits,Victor Hugo,NXB Lao Động,233384.0,256466,23082.0,9,4.9,1304
+375,Sherlock Holmes,Robin Sharma,NXB Tổng Hợp TP.HCM,123333.0,195766,72433.0,37,3.3,17413
+376,Tuổi Trẻ Đáng Giá Bao Nhiêu,Paulo Coelho,NXB Kim Đồng,122594.0,235758,113164.0,48,4.2,13804
+377,Deep Work,James Clear,NXB Văn Học,140144.0,245867,105723.0,43,3.6,3247
+378,Tuổi Trẻ Đáng Giá Bao Nhiêu,Antoine de Saint-Exupéry,NXB Trẻ,302149.0,368475,66326.0,18,3.7,13757
+379,Nhà Giả Kim,Paulo Coelho,NXB Tổng Hợp TP.HCM,196768.0,231492,34724.0,15,4.7,19365
+380,Cây Cam Ngọt Của Tôi,J.K. Rowling,NXB Lao Động,208787.0,386642,177855.0,46,4.1,8431
+381,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Nhật Ánh,NXB Văn Học,182737.0,338402,155665.0,46,4.9,448
+382,Dế Mèn Phiêu Lưu Ký,Dale Carnegie,NXB Tổng Hợp TP.HCM,140178.0,189430,49252.0,26,3.6,17648
+383,Đắc Nhân Tâm,Nguyễn Ngọc Tư,NXB Văn Học,402707.0,415162,12455.0,3,4.1,5670
+384,Think and Grow Rich,Nguyễn Nhật Ánh,NXB Thế Giới,161522.0,256384,94862.0,37,4.3,5169
+385,Atomic Habits,Nguyễn Nhật Ánh,NXB Thế Giới,273180.0,329133,55953.0,17,3.4,7137
+386,Sherlock Holmes,Tony Buổi Sáng,NXB Lao Động,206171.0,307718,101547.0,33,4.9,13979
+387,The Psychology of Money,Robin Sharma,NXB Phụ Nữ Việt Nam,394170.0,498950,104780.0,21,3.1,6574
+388,Dế Mèn Phiêu Lưu Ký,James Clear,NXB Thế Giới,408044.0,453382,45338.0,10,4.7,19700
+389,Những Người Khốn Khổ,James Clear,NXB Phụ Nữ Việt Nam,463835.0,473301,9466.0,2,4.8,9782
+390,Muôn Kiếp Nhân Sinh,Victor Hugo,NXB Lao Động,370709.0,394371,23662.0,6,3.8,5893
+391,Hoàng Tử Bé,Victor Hugo,NXB Phụ Nữ Việt Nam,96083.0,143407,47324.0,33,4.5,15857
+392,Dế Mèn Phiêu Lưu Ký,J.K. Rowling,NXB Văn Học,49529.0,63499,13970.0,22,3.8,3986
+393,Tuổi Trẻ Đáng Giá Bao Nhiêu,James Clear,NXB Lao Động,81137.0,144887,63750.0,44,3.8,8695
+394,Dế Mèn Phiêu Lưu Ký,Nguyễn Ngọc Tư,NXB Kim Đồng,234793.0,304926,70133.0,23,3.6,6448
+395,Dế Mèn Phiêu Lưu Ký,Dale Carnegie,NXB Kim Đồng,223726.0,276205,52479.0,19,3.1,15010
+396,Không Gia Đình,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,352478.0,482846,130368.0,27,4.1,5623
+397,Những Người Khốn Khổ,J.K. Rowling,NXB Trẻ,114819.0,135081,20262.0,15,4.8,373
+398,Sherlock Holmes,Victor Hugo,NXB Phụ Nữ Việt Nam,120730.0,149050,28320.0,19,3.7,164
+399,Deep Work,Robin Sharma,NXB Phụ Nữ Việt Nam,334187.0,388589,54402.0,14,4.5,19382
+400,Không Gia Đình,J.K. Rowling,NXB Phụ Nữ Việt Nam,64550.0,121793,57243.0,47,3.6,8984
+401,Nhà Giả Kim,Robin Sharma,NXB Văn Học,184175.0,239188,55013.0,23,4.6,12709
+402,Think and Grow Rich,Dale Carnegie,NXB Lao Động,129612.0,130921,1309.0,1,3.1,16913
+403,Tuổi Trẻ Đáng Giá Bao Nhiêu,Antoine de Saint-Exupéry,NXB Trẻ,293480.0,458562,165082.0,36,3.4,12223
+404,Hoàng Tử Bé,Tony Buổi Sáng,NXB Kim Đồng,268038.0,487341,219303.0,45,3.9,12114
+405,Tuổi Trẻ Đáng Giá Bao Nhiêu,Paulo Coelho,NXB Lao Động,44802.0,87848,43046.0,49,3.8,14690
+406,Hoàng Tử Bé,Antoine de Saint-Exupéry,NXB Kim Đồng,29745.0,35837,6092.0,17,4.0,10717
+407,Tuổi Trẻ Đáng Giá Bao Nhiêu,J.K. Rowling,NXB Kim Đồng,390126.0,402192,12066.0,3,4.3,14406
+408,Cây Cam Ngọt Của Tôi,J.K. Rowling,NXB Lao Động,201749.0,305680,103931.0,34,3.1,8128
+409,Hoàng Tử Bé,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,270020.0,272747,2727.0,1,4.3,16537
+410,Những Người Khốn Khổ,Paulo Coelho,NXB Kim Đồng,404728.0,426030,21302.0,5,3.4,12773
+411,Atomic Habits,Robin Sharma,NXB Kim Đồng,262495.0,477264,214769.0,45,3.3,11974
+412,Deep Work,Robin Sharma,NXB Trẻ,189499.0,231096,41597.0,18,3.1,6635
+413,Những Người Khốn Khổ,Nguyễn Nhật Ánh,NXB Thế Giới,150719.0,156999,6280.0,4,4.6,18655
+414,Hoàng Tử Bé,Antoine de Saint-Exupéry,NXB Kim Đồng,114943.0,119732,4789.0,4,4.4,3738
+415,Dế Mèn Phiêu Lưu Ký,Victor Hugo,NXB Tổng Hợp TP.HCM,334290.0,334290,0.0,0,4.1,2114
+416,Deep Work,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,133717.0,252296,118579.0,47,3.1,19920
+417,Không Gia Đình,Nguyễn Ngọc Tư,NXB Văn Học,195152.0,368211,173059.0,47,4.7,18085
+418,The Psychology of Money,Robin Sharma,NXB Văn Học,289648.0,298606,8958.0,3,3.2,3269
+419,Harry Potter,J.K. Rowling,NXB Lao Động,103582.0,203102,99520.0,49,4.7,11723
+420,Harry Potter,Nguyễn Nhật Ánh,NXB Kim Đồng,245417.0,454476,209059.0,46,4.6,19059
+421,Đắc Nhân Tâm,Nguyễn Nhật Ánh,NXB Thế Giới,92630.0,92630,0.0,0,3.5,16586
+422,The Psychology of Money,J.K. Rowling,NXB Văn Học,294332.0,358941,64609.0,18,4.3,11394
+423,Cây Cam Ngọt Của Tôi,Nguyễn Nhật Ánh,NXB Kim Đồng,354538.0,365503,10965.0,3,3.3,13514
+424,Hoàng Tử Bé,Nguyễn Nhật Ánh,NXB Thế Giới,471724.0,486313,14589.0,3,4.7,18380
+425,Harry Potter,Paulo Coelho,NXB Thế Giới,408976.0,454418,45442.0,10,4.1,8588
+426,Cây Cam Ngọt Của Tôi,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,382544.0,415809,33265.0,8,3.0,13739
+427,Dế Mèn Phiêu Lưu Ký,Dale Carnegie,NXB Thế Giới,321039.0,452167,131128.0,29,3.2,8198
+428,Tuổi Trẻ Đáng Giá Bao Nhiêu,Tony Buổi Sáng,NXB Thế Giới,100016.0,114961,14945.0,13,3.4,7095
+429,Đắc Nhân Tâm,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,354883.0,373561,18678.0,5,5.0,19472
+430,Sherlock Holmes,Dale Carnegie,NXB Phụ Nữ Việt Nam,133027.0,147808,14781.0,10,4.5,1836
+431,Không Gia Đình,Nguyễn Nhật Ánh,NXB Tổng Hợp TP.HCM,449142.0,463033,13891.0,3,4.4,19761
+432,Cây Cam Ngọt Của Tôi,Dale Carnegie,NXB Lao Động,62701.0,77409,14708.0,19,4.8,19148
+433,Đắc Nhân Tâm,James Clear,NXB Thế Giới,31902.0,43111,11209.0,26,4.8,11626
+434,Atomic Habits,Robin Sharma,NXB Lao Động,148858.0,150362,1504.0,1,3.3,7603
+435,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Nhật Ánh,NXB Kim Đồng,308944.0,396082,87138.0,22,3.5,10179
+436,The Psychology of Money,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,281241.0,385261,104020.0,27,4.2,17037
+437,Cây Cam Ngọt Của Tôi,Tony Buổi Sáng,NXB Thế Giới,418858.0,436310,17452.0,4,3.4,15621
+438,Cây Cam Ngọt Của Tôi,Nguyễn Nhật Ánh,NXB Phụ Nữ Việt Nam,239858.0,352732,112874.0,32,3.3,19574
+439,Nhà Giả Kim,Nguyễn Nhật Ánh,NXB Thế Giới,74812.0,95913,21101.0,22,4.3,19495
+440,Muôn Kiếp Nhân Sinh,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,196088.0,288364,92276.0,32,3.1,1712
+441,Sherlock Holmes,Paulo Coelho,NXB Kim Đồng,88249.0,108949,20700.0,19,4.2,3763
+442,Những Người Khốn Khổ,James Clear,NXB Phụ Nữ Việt Nam,137669.0,174264,36595.0,21,4.8,3331
+443,Sherlock Holmes,Robin Sharma,NXB Thế Giới,183780.0,328178,144398.0,44,3.7,17221
+444,Không Gia Đình,Dale Carnegie,NXB Lao Động,231277.0,436371,205094.0,47,3.7,3742
+445,Muôn Kiếp Nhân Sinh,J.K. Rowling,NXB Văn Học,74777.0,128926,54149.0,42,4.7,10098
+446,Đắc Nhân Tâm,Dale Carnegie,NXB Lao Động,52315.0,59449,7134.0,12,4.5,4885
+447,Hoàng Tử Bé,James Clear,NXB Thế Giới,194725.0,335733,141008.0,42,4.9,14660
+448,Dế Mèn Phiêu Lưu Ký,Nguyễn Ngọc Tư,NXB Thế Giới,402728.0,423924,21196.0,5,4.5,16241
+449,Những Người Khốn Khổ,Paulo Coelho,NXB Thế Giới,172560.0,191733,19173.0,10,3.2,17214
+450,Nhà Giả Kim,Victor Hugo,NXB Kim Đồng,243793.0,264992,21199.0,8,4.5,5407
+451,Hoàng Tử Bé,James Clear,NXB Văn Học,78937.0,79734,797.0,1,3.9,7228
+452,Những Người Khốn Khổ,Paulo Coelho,NXB Trẻ,29364.0,51516,22152.0,43,5.0,11502
+453,Atomic Habits,J.K. Rowling,NXB Lao Động,26757.0,43864,17107.0,39,3.7,18408
+454,Hoàng Tử Bé,Antoine de Saint-Exupéry,NXB Thế Giới,77132.0,102842,25710.0,25,4.2,2608
+455,Muôn Kiếp Nhân Sinh,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,209971.0,209971,0.0,0,4.2,19220
+456,The Psychology of Money,J.K. Rowling,NXB Thế Giới,407136.0,496507,89371.0,18,4.7,10604
+457,Hoàng Tử Bé,Victor Hugo,NXB Lao Động,378804.0,425622,46818.0,11,3.7,3047
+458,Deep Work,Nguyễn Nhật Ánh,NXB Trẻ,186185.0,209197,23012.0,11,3.8,10061
+459,Dế Mèn Phiêu Lưu Ký,Robin Sharma,NXB Kim Đồng,82749.0,87104,4355.0,5,4.2,11190
+460,Muôn Kiếp Nhân Sinh,J.K. Rowling,NXB Phụ Nữ Việt Nam,203971.0,299957,95986.0,32,4.0,10042
+461,Tuổi Trẻ Đáng Giá Bao Nhiêu,Robin Sharma,NXB Kim Đồng,112889.0,115193,2304.0,2,3.1,131
+462,Think and Grow Rich,Antoine de Saint-Exupéry,NXB Thế Giới,234451.0,249416,14965.0,6,3.7,2845
+463,Muôn Kiếp Nhân Sinh,J.K. Rowling,NXB Lao Động,447532.0,456665,9133.0,2,3.8,12409
+464,Không Gia Đình,James Clear,NXB Văn Học,170546.0,334403,163857.0,49,3.8,19613
+465,The Psychology of Money,Dale Carnegie,NXB Phụ Nữ Việt Nam,69122.0,100177,31055.0,31,3.4,8025
+466,Think and Grow Rich,Paulo Coelho,NXB Phụ Nữ Việt Nam,210119.0,338901,128782.0,38,3.1,14815
+467,Harry Potter,Nguyễn Ngọc Tư,NXB Phụ Nữ Việt Nam,310776.0,485588,174812.0,36,3.4,2831
+468,Hoàng Tử Bé,Victor Hugo,NXB Phụ Nữ Việt Nam,43458.0,66858,23400.0,35,3.4,10395
+469,Đắc Nhân Tâm,Antoine de Saint-Exupéry,NXB Văn Học,106953.0,106953,0.0,0,4.2,9622
+470,Đắc Nhân Tâm,Antoine de Saint-Exupéry,NXB Văn Học,58703.0,59901,1198.0,2,4.6,5638
+471,Nhà Giả Kim,Tony Buổi Sáng,NXB Lao Động,162340.0,205494,43154.0,21,4.5,6260
+472,Muôn Kiếp Nhân Sinh,Victor Hugo,NXB Tổng Hợp TP.HCM,276422.0,345527,69105.0,20,4.6,17011
+473,Think and Grow Rich,J.K. Rowling,NXB Phụ Nữ Việt Nam,57863.0,72329,14466.0,20,4.0,3633
+474,Tuổi Trẻ Đáng Giá Bao Nhiêu,Tony Buổi Sáng,NXB Trẻ,265721.0,402608,136887.0,34,3.4,2484
+475,Dế Mèn Phiêu Lưu Ký,Paulo Coelho,NXB Kim Đồng,169198.0,192271,23073.0,12,4.6,15046
+476,Dế Mèn Phiêu Lưu Ký,Nguyễn Ngọc Tư,NXB Phụ Nữ Việt Nam,84489.0,132014,47525.0,36,3.7,12105
+477,Những Người Khốn Khổ,J.K. Rowling,NXB Kim Đồng,171810.0,291204,119394.0,41,4.6,12562
+478,The Psychology of Money,Paulo Coelho,NXB Lao Động,273283.0,284670,11387.0,4,3.4,12311
+479,Đắc Nhân Tâm,Antoine de Saint-Exupéry,NXB Lao Động,39632.0,48929,9297.0,19,4.1,12419
+480,Dế Mèn Phiêu Lưu Ký,Paulo Coelho,NXB Phụ Nữ Việt Nam,337966.0,352048,14082.0,4,4.0,13675
+481,Những Người Khốn Khổ,James Clear,NXB Kim Đồng,292052.0,411341,119289.0,29,3.7,884
+482,Những Người Khốn Khổ,James Clear,NXB Trẻ,300132.0,333480,33348.0,10,3.4,17060
+483,Sherlock Holmes,James Clear,NXB Trẻ,88172.0,106231,18059.0,17,4.9,12831
+484,Nhà Giả Kim,Robin Sharma,NXB Trẻ,167135.0,179715,12580.0,7,4.8,12940
+485,Deep Work,Robin Sharma,NXB Trẻ,174376.0,341913,167537.0,49,4.6,14073
+486,Think and Grow Rich,Paulo Coelho,NXB Trẻ,398252.0,442502,44250.0,10,4.9,13328
+487,The Psychology of Money,Paulo Coelho,NXB Kim Đồng,107703.0,188952,81249.0,43,4.7,4700
+488,Atomic Habits,Robin Sharma,NXB Thế Giới,192749.0,377939,185190.0,49,3.7,7244
+489,Think and Grow Rich,Antoine de Saint-Exupéry,NXB Thế Giới,449219.0,488281,39062.0,8,4.7,15517
+490,Think and Grow Rich,J.K. Rowling,NXB Văn Học,406226.0,441550,35324.0,8,4.6,7667
+491,Deep Work,Victor Hugo,NXB Phụ Nữ Việt Nam,147577.0,295154,147577.0,50,5.0,3505
+492,Tuổi Trẻ Đáng Giá Bao Nhiêu,Tony Buổi Sáng,NXB Thế Giới,183703.0,199677,15974.0,8,3.1,15009
+493,Những Người Khốn Khổ,Robin Sharma,NXB Thế Giới,120098.0,235487,115389.0,49,3.9,15077
+494,Think and Grow Rich,Victor Hugo,NXB Tổng Hợp TP.HCM,357725.0,365025,7300.0,2,4.5,4952
+495,Deep Work,Antoine de Saint-Exupéry,NXB Kim Đồng,80992.0,80992,0.0,0,4.8,13864
+496,Đắc Nhân Tâm,James Clear,NXB Kim Đồng,158817.0,193679,34862.0,18,4.2,13962
+497,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Nhật Ánh,NXB Văn Học,73033.0,107401,34368.0,32,4.0,18318
+498,Đắc Nhân Tâm,J.K. Rowling,NXB Văn Học,201494.0,341515,140021.0,41,4.7,14105
+499,Think and Grow Rich,Paulo Coelho,NXB Văn Học,291221.0,410171,118950.0,29,4.9,18329
+500,Nhà Giả Kim,Nguyễn Ngọc Tư,NXB Kim Đồng,157839.0,219221,61382.0,28,3.2,18147
+501,The Psychology of Money,Nguyễn Ngọc Tư,NXB Kim Đồng,413263.0,426044,12781.0,3,4.7,17917
+502,Hoàng Tử Bé,Paulo Coelho,NXB Lao Động,211633.0,423266,211633.0,50,3.3,2557
+503,Không Gia Đình,J.K. Rowling,NXB Kim Đồng,164584.0,169674,5090.0,3,4.3,8373
+504,Những Người Khốn Khổ,Paulo Coelho,NXB Phụ Nữ Việt Nam,205429.0,216241,10812.0,5,4.4,10412
+505,Dế Mèn Phiêu Lưu Ký,Robin Sharma,NXB Trẻ,289420.0,482367,192947.0,40,3.3,5927
+506,Deep Work,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,59809.0,62301,2492.0,4,4.1,2681
+507,Muôn Kiếp Nhân Sinh,James Clear,NXB Phụ Nữ Việt Nam,60964.0,80216,19252.0,24,4.2,3843
+508,Think and Grow Rich,Tony Buổi Sáng,NXB Thế Giới,121068.0,165847,44779.0,27,3.1,6161
+509,Nhà Giả Kim,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,147770.0,187050,39280.0,21,3.6,6063
+510,Muôn Kiếp Nhân Sinh,Victor Hugo,NXB Văn Học,165448.0,300814,135366.0,45,3.3,10920
+511,Hoàng Tử Bé,Tony Buổi Sáng,NXB Văn Học,373559.0,472859,99300.0,21,3.3,11136
+512,Đắc Nhân Tâm,Antoine de Saint-Exupéry,NXB Phụ Nữ Việt Nam,41021.0,60325,19304.0,32,4.6,3502
+513,Không Gia Đình,Dale Carnegie,NXB Văn Học,231020.0,248409,17389.0,7,4.9,8853
+514,Cây Cam Ngọt Của Tôi,Dale Carnegie,NXB Văn Học,40023.0,55587,15564.0,28,3.1,15247
+515,Đắc Nhân Tâm,Nguyễn Ngọc Tư,NXB Trẻ,132234.0,191644,59410.0,31,4.2,2456
+516,Những Người Khốn Khổ,Robin Sharma,NXB Kim Đồng,361899.0,458100,96201.0,21,4.2,12956
+517,Tuổi Trẻ Đáng Giá Bao Nhiêu,James Clear,NXB Kim Đồng,141490.0,239814,98324.0,41,3.8,4877
+518,Think and Grow Rich,J.K. Rowling,NXB Thế Giới,180011.0,200012,20001.0,10,3.1,1789
+519,Đắc Nhân Tâm,Nguyễn Ngọc Tư,NXB Kim Đồng,240040.0,400067,160027.0,40,4.3,14226
+520,Sherlock Holmes,J.K. Rowling,NXB Kim Đồng,328879.0,361406,32527.0,9,4.4,1532
+521,Những Người Khốn Khổ,J.K. Rowling,NXB Tổng Hợp TP.HCM,388035.0,451203,63168.0,14,4.3,10871
+522,Deep Work,Dale Carnegie,NXB Văn Học,374712.0,474319,99607.0,21,4.5,19088
+523,Những Người Khốn Khổ,J.K. Rowling,NXB Thế Giới,223067.0,289697,66630.0,23,4.6,19781
+524,Muôn Kiếp Nhân Sinh,Tony Buổi Sáng,NXB Trẻ,165041.0,189702,24661.0,13,4.9,6809
+525,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Nhật Ánh,NXB Trẻ,50732.0,67643,16911.0,25,4.8,13405
+526,Không Gia Đình,Victor Hugo,NXB Thế Giới,65209.0,91843,26634.0,29,3.1,3469
+527,Đắc Nhân Tâm,Nguyễn Ngọc Tư,NXB Phụ Nữ Việt Nam,341237.0,494546,153309.0,31,3.6,12694
+528,Deep Work,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,267143.0,430875,163732.0,38,3.8,17475
+529,The Psychology of Money,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,215821.0,229597,13776.0,6,4.2,10520
+530,Những Người Khốn Khổ,Robin Sharma,NXB Lao Động,34653.0,60794,26141.0,43,4.5,4221
+531,Harry Potter,Nguyễn Nhật Ánh,NXB Phụ Nữ Việt Nam,329816.0,383507,53691.0,14,3.6,18745
+532,Nhà Giả Kim,Dale Carnegie,NXB Lao Động,223329.0,413573,190244.0,46,3.1,2726
+533,Atomic Habits,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,267148.0,269846,2698.0,1,4.4,16420
+534,Dế Mèn Phiêu Lưu Ký,J.K. Rowling,NXB Thế Giới,108141.0,168970,60829.0,36,3.4,19126
+535,Nhà Giả Kim,Nguyễn Ngọc Tư,NXB Kim Đồng,44686.0,65714,21028.0,32,4.0,5756
+536,Cây Cam Ngọt Của Tôi,James Clear,NXB Phụ Nữ Việt Nam,234400.0,266364,31964.0,12,4.1,12655
+537,Think and Grow Rich,Dale Carnegie,NXB Kim Đồng,109457.0,154165,44708.0,29,4.1,19985
+538,Không Gia Đình,Nguyễn Ngọc Tư,NXB Thế Giới,142832.0,176336,33504.0,19,3.5,19631
+539,Muôn Kiếp Nhân Sinh,Nguyễn Ngọc Tư,NXB Thế Giới,209654.0,243784,34130.0,14,4.5,10769
+540,Deep Work,Antoine de Saint-Exupéry,NXB Phụ Nữ Việt Nam,244212.0,488424,244212.0,50,3.9,10372
+541,The Psychology of Money,Antoine de Saint-Exupéry,NXB Thế Giới,156636.0,193378,36742.0,19,4.9,18061
+542,Atomic Habits,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,79402.0,101797,22395.0,22,3.0,3864
+543,Tuổi Trẻ Đáng Giá Bao Nhiêu,Paulo Coelho,NXB Phụ Nữ Việt Nam,215623.0,371763,156140.0,42,3.5,18381
+544,Cây Cam Ngọt Của Tôi,J.K. Rowling,NXB Lao Động,202191.0,202191,0.0,0,4.2,3071
+545,Muôn Kiếp Nhân Sinh,Paulo Coelho,NXB Văn Học,196751.0,385787,189036.0,49,3.9,15953
+546,Muôn Kiếp Nhân Sinh,Dale Carnegie,NXB Tổng Hợp TP.HCM,188836.0,242098,53262.0,22,4.9,14387
+547,Sherlock Holmes,J.K. Rowling,NXB Thế Giới,444246.0,457986,13740.0,3,3.1,7488
+548,Cây Cam Ngọt Của Tôi,Robin Sharma,NXB Tổng Hợp TP.HCM,98955.0,149932,50977.0,34,3.2,15802
+549,Những Người Khốn Khổ,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,129504.0,168187,38683.0,23,4.6,7825
+550,Nhà Giả Kim,Nguyễn Nhật Ánh,NXB Kim Đồng,35446.0,47900,12454.0,26,3.1,9183
+551,Muôn Kiếp Nhân Sinh,Robin Sharma,NXB Trẻ,77127.0,154255,77128.0,50,4.4,4365
+552,Harry Potter,J.K. Rowling,NXB Kim Đồng,75285.0,134438,59153.0,44,3.2,5690
+553,Atomic Habits,Dale Carnegie,NXB Trẻ,191076.0,360521,169445.0,47,3.0,6756
+554,Hoàng Tử Bé,Robin Sharma,NXB Văn Học,145202.0,161336,16134.0,10,3.4,16831
+555,Dế Mèn Phiêu Lưu Ký,Robin Sharma,NXB Văn Học,235247.0,435642,200395.0,46,3.9,14325
+556,Dế Mèn Phiêu Lưu Ký,Nguyễn Ngọc Tư,NXB Kim Đồng,190945.0,224641,33696.0,15,4.8,5770
+557,Tuổi Trẻ Đáng Giá Bao Nhiêu,Tony Buổi Sáng,NXB Văn Học,184810.0,293350,108540.0,37,3.2,3726
+558,Muôn Kiếp Nhân Sinh,Antoine de Saint-Exupéry,NXB Văn Học,204511.0,265599,61088.0,23,4.7,2804
+559,Tuổi Trẻ Đáng Giá Bao Nhiêu,Victor Hugo,NXB Thế Giới,171964.0,202310,30346.0,15,4.6,4790
+560,Sherlock Holmes,Antoine de Saint-Exupéry,NXB Kim Đồng,330793.0,459435,128642.0,28,3.1,12536
+561,Dế Mèn Phiêu Lưu Ký,Nguyễn Ngọc Tư,NXB Trẻ,52626.0,67469,14843.0,22,3.0,12945
+562,Cây Cam Ngọt Của Tôi,Nguyễn Ngọc Tư,NXB Văn Học,197705.0,373029,175324.0,47,3.9,1147
+563,Tuổi Trẻ Đáng Giá Bao Nhiêu,J.K. Rowling,NXB Kim Đồng,280904.0,374538,93634.0,25,4.5,19988
+564,Sherlock Holmes,Robin Sharma,NXB Thế Giới,219467.0,318068,98601.0,31,3.3,4059
+565,Harry Potter,Paulo Coelho,NXB Văn Học,242290.0,403817,161527.0,40,4.5,11568
+566,Cây Cam Ngọt Của Tôi,Antoine de Saint-Exupéry,NXB Kim Đồng,285397.0,300418,15021.0,5,4.2,573
+567,Atomic Habits,Victor Hugo,NXB Văn Học,108723.0,126422,17699.0,14,4.0,14391
+568,Tuổi Trẻ Đáng Giá Bao Nhiêu,Victor Hugo,NXB Trẻ,251913.0,475307,223394.0,47,3.8,2276
+569,Những Người Khốn Khổ,Robin Sharma,NXB Lao Động,41831.0,64356,22525.0,35,3.3,19916
+570,Muôn Kiếp Nhân Sinh,James Clear,NXB Kim Đồng,165223.0,239453,74230.0,31,4.0,18263
+571,Muôn Kiếp Nhân Sinh,Paulo Coelho,NXB Tổng Hợp TP.HCM,71791.0,132946,61155.0,46,3.7,12692
+572,Không Gia Đình,Nguyễn Ngọc Tư,NXB Kim Đồng,130071.0,194136,64065.0,33,4.6,5559
+573,The Psychology of Money,Nguyễn Ngọc Tư,NXB Kim Đồng,412490.0,448359,35869.0,8,3.7,9908
+574,Tuổi Trẻ Đáng Giá Bao Nhiêu,Victor Hugo,NXB Kim Đồng,250687.0,439801,189114.0,43,3.2,780
+575,Sherlock Holmes,Robin Sharma,NXB Lao Động,216488.0,400903,184415.0,46,4.9,3711
+576,Hoàng Tử Bé,Dale Carnegie,NXB Tổng Hợp TP.HCM,221924.0,284518,62594.0,22,4.3,18377
+577,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Nhật Ánh,NXB Văn Học,88178.0,169573,81395.0,48,4.3,4757
+578,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Nhật Ánh,NXB Phụ Nữ Việt Nam,132292.0,254408,122116.0,48,4.0,421
+579,Atomic Habits,Nguyễn Ngọc Tư,NXB Lao Động,97906.0,116555,18649.0,16,3.1,7742
+580,Atomic Habits,Dale Carnegie,NXB Kim Đồng,172868.0,308692,135824.0,44,3.2,18865
+581,Deep Work,Dale Carnegie,NXB Trẻ,69122.0,78548,9426.0,12,4.1,7297
+582,Sherlock Holmes,Robin Sharma,NXB Văn Học,114632.0,138111,23479.0,17,4.8,2263
+583,Những Người Khốn Khổ,Tony Buổi Sáng,NXB Kim Đồng,36298.0,68486,32188.0,47,3.4,13812
+584,Tuổi Trẻ Đáng Giá Bao Nhiêu,Paulo Coelho,NXB Thế Giới,296031.0,469890,173859.0,37,3.1,6920
+585,Hoàng Tử Bé,Dale Carnegie,NXB Thế Giới,29210.0,36975,7765.0,21,3.7,112
+586,Tuổi Trẻ Đáng Giá Bao Nhiêu,James Clear,NXB Phụ Nữ Việt Nam,371435.0,436982,65547.0,15,3.4,2773
+587,Harry Potter,Nguyễn Nhật Ánh,NXB Thế Giới,435127.0,467879,32752.0,7,3.8,8010
+588,Không Gia Đình,James Clear,NXB Kim Đồng,177997.0,202269,24272.0,12,3.6,6243
+589,Deep Work,Nguyễn Nhật Ánh,NXB Kim Đồng,72486.0,97954,25468.0,26,4.2,17375
+590,Tuổi Trẻ Đáng Giá Bao Nhiêu,Dale Carnegie,NXB Tổng Hợp TP.HCM,165912.0,291074,125162.0,43,4.8,3177
+591,Không Gia Đình,James Clear,NXB Tổng Hợp TP.HCM,412736.0,421159,8423.0,2,3.5,7962
+592,Cây Cam Ngọt Của Tôi,Dale Carnegie,NXB Thế Giới,36923.0,50579,13656.0,27,4.6,13534
+593,Muôn Kiếp Nhân Sinh,Nguyễn Nhật Ánh,NXB Trẻ,232131.0,283087,50956.0,18,4.2,16792
+594,Không Gia Đình,J.K. Rowling,NXB Kim Đồng,57220.0,90825,33605.0,37,3.9,16004
+595,Sherlock Holmes,Tony Buổi Sáng,NXB Văn Học,88967.0,177935,88968.0,50,4.5,2215
+596,Muôn Kiếp Nhân Sinh,Victor Hugo,NXB Trẻ,41615.0,42902,1287.0,3,3.9,10514
+597,Không Gia Đình,Tony Buổi Sáng,NXB Kim Đồng,402724.0,402724,0.0,0,3.3,10176
+598,Think and Grow Rich,James Clear,NXB Trẻ,378821.0,430478,51657.0,12,3.1,15008
+599,Đắc Nhân Tâm,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,333272.0,476103,142831.0,30,3.2,10401
+600,Hoàng Tử Bé,Victor Hugo,NXB Lao Động,251404.0,474348,222944.0,47,3.8,2153
+601,Harry Potter,James Clear,NXB Lao Động,384439.0,492870,108431.0,22,3.6,14095
+602,The Psychology of Money,Victor Hugo,NXB Lao Động,167767.0,310680,142913.0,46,3.1,6796
+603,Muôn Kiếp Nhân Sinh,Robin Sharma,NXB Thế Giới,348497.0,419876,71379.0,17,4.5,12118
+604,Đắc Nhân Tâm,Nguyễn Nhật Ánh,NXB Phụ Nữ Việt Nam,81849.0,89944,8095.0,9,3.5,14879
+605,Muôn Kiếp Nhân Sinh,J.K. Rowling,NXB Trẻ,208940.0,307265,98325.0,32,4.4,14115
+606,Đắc Nhân Tâm,Dale Carnegie,NXB Trẻ,196128.0,215525,19397.0,9,4.8,1114
+607,Sherlock Holmes,Dale Carnegie,NXB Kim Đồng,89710.0,104314,14604.0,14,3.3,15997
+608,Muôn Kiếp Nhân Sinh,Robin Sharma,NXB Lao Động,420548.0,462141,41593.0,9,3.1,9508
+609,Deep Work,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,247358.0,274842,27484.0,10,3.7,18507
+610,Những Người Khốn Khổ,Dale Carnegie,NXB Lao Động,127022.0,230949,103927.0,45,3.8,4722
+611,Dế Mèn Phiêu Lưu Ký,Paulo Coelho,NXB Kim Đồng,112831.0,197949,85118.0,43,3.9,10257
+612,Muôn Kiếp Nhân Sinh,Antoine de Saint-Exupéry,NXB Thế Giới,241490.0,298136,56646.0,19,3.0,7862
+613,Dế Mèn Phiêu Lưu Ký,J.K. Rowling,NXB Phụ Nữ Việt Nam,54875.0,66114,11239.0,17,4.4,13234
+614,Muôn Kiếp Nhân Sinh,Victor Hugo,NXB Kim Đồng,219458.0,258186,38728.0,15,4.6,13499
+615,Sherlock Holmes,Nguyễn Ngọc Tư,NXB Trẻ,301135.0,381183,80048.0,21,3.1,997
+616,Đắc Nhân Tâm,Nguyễn Nhật Ánh,NXB Tổng Hợp TP.HCM,82534.0,90697,8163.0,9,3.1,18644
+617,Hoàng Tử Bé,Victor Hugo,NXB Phụ Nữ Việt Nam,177603.0,322914,145311.0,45,4.1,15752
+618,Hoàng Tử Bé,Victor Hugo,NXB Kim Đồng,241492.0,335405,93913.0,28,3.2,9252
+619,Think and Grow Rich,Paulo Coelho,NXB Thế Giới,312255.0,335758,23503.0,7,3.6,1719
+620,Nhà Giả Kim,J.K. Rowling,NXB Văn Học,206464.0,389554,183090.0,47,4.0,5995
+621,Deep Work,Robin Sharma,NXB Phụ Nữ Việt Nam,95212.0,167039,71827.0,43,4.4,8529
+622,Cây Cam Ngọt Của Tôi,James Clear,NXB Trẻ,99355.0,125766,26411.0,21,3.1,11868
+623,Cây Cam Ngọt Của Tôi,James Clear,NXB Phụ Nữ Việt Nam,223606.0,306309,82703.0,27,3.9,17742
+624,Think and Grow Rich,Dale Carnegie,NXB Phụ Nữ Việt Nam,241992.0,318411,76419.0,24,3.9,10133
+625,Atomic Habits,Nguyễn Ngọc Tư,NXB Trẻ,120693.0,123156,2463.0,2,3.4,15523
+626,Dế Mèn Phiêu Lưu Ký,Antoine de Saint-Exupéry,NXB Kim Đồng,187589.0,237455,49866.0,21,4.7,3628
+627,Không Gia Đình,Tony Buổi Sáng,NXB Kim Đồng,333091.0,382863,49772.0,13,4.0,4928
+628,Sherlock Holmes,James Clear,NXB Phụ Nữ Việt Nam,64509.0,102396,37887.0,37,4.6,11243
+629,Deep Work,J.K. Rowling,NXB Tổng Hợp TP.HCM,34015.0,52331,18316.0,35,4.2,3276
+630,Sherlock Holmes,Nguyễn Ngọc Tư,NXB Văn Học,184884.0,205427,20543.0,10,3.2,3499
+631,Think and Grow Rich,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,300138.0,319296,19158.0,6,4.6,10435
+632,Muôn Kiếp Nhân Sinh,Robin Sharma,NXB Tổng Hợp TP.HCM,379792.0,379792,0.0,0,3.0,14762
+633,Sherlock Holmes,Paulo Coelho,NXB Phụ Nữ Việt Nam,328547.0,338708,10161.0,3,4.1,2275
+634,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Nhật Ánh,NXB Tổng Hợp TP.HCM,34327.0,66013,31686.0,48,3.5,13603
+635,Hoàng Tử Bé,Nguyễn Nhật Ánh,NXB Văn Học,232213.0,430024,197811.0,46,4.5,5486
+636,Muôn Kiếp Nhân Sinh,Antoine de Saint-Exupéry,NXB Phụ Nữ Việt Nam,190324.0,244005,53681.0,22,3.9,6237
+637,Tuổi Trẻ Đáng Giá Bao Nhiêu,Paulo Coelho,NXB Lao Động,230228.0,324265,94037.0,29,3.1,10319
+638,Sherlock Holmes,Antoine de Saint-Exupéry,NXB Lao Động,353404.0,368129,14725.0,4,3.1,4203
+639,Harry Potter,James Clear,NXB Trẻ,101533.0,191572,90039.0,47,3.5,1627
+640,Atomic Habits,J.K. Rowling,NXB Văn Học,160165.0,202741,42576.0,21,3.9,7349
+641,Think and Grow Rich,Nguyễn Nhật Ánh,NXB Lao Động,199246.0,199246,0.0,0,3.5,19006
+642,Đắc Nhân Tâm,Nguyễn Ngọc Tư,NXB Phụ Nữ Việt Nam,104116.0,204149,100033.0,49,3.1,12792
+643,Sherlock Holmes,Paulo Coelho,NXB Lao Động,328833.0,427056,98223.0,23,4.1,10000
+644,Không Gia Đình,J.K. Rowling,NXB Trẻ,58008.0,82869,24861.0,30,3.2,4356
+645,Deep Work,Victor Hugo,NXB Kim Đồng,207760.0,214186,6426.0,3,4.7,17472
+646,Atomic Habits,J.K. Rowling,NXB Kim Đồng,252279.0,319341,67062.0,21,4.8,1485
+647,Không Gia Đình,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,70922.0,92107,21185.0,23,3.4,9045
+648,Những Người Khốn Khổ,Dale Carnegie,NXB Phụ Nữ Việt Nam,25721.0,31367,5646.0,18,4.4,10367
+649,Deep Work,Nguyễn Ngọc Tư,NXB Phụ Nữ Việt Nam,360270.0,467883,107613.0,23,3.6,17540
+650,Muôn Kiếp Nhân Sinh,Paulo Coelho,NXB Kim Đồng,430654.0,473246,42592.0,9,4.8,9524
+651,Những Người Khốn Khổ,James Clear,NXB Văn Học,153801.0,183096,29295.0,16,3.9,16093
+652,Cây Cam Ngọt Của Tôi,Paulo Coelho,NXB Phụ Nữ Việt Nam,295232.0,364484,69252.0,19,4.3,8705
+653,Think and Grow Rich,James Clear,NXB Phụ Nữ Việt Nam,444634.0,458386,13752.0,3,4.5,7182
+654,Think and Grow Rich,Nguyễn Ngọc Tư,NXB Trẻ,408026.0,420645,12619.0,3,3.8,18281
+655,Think and Grow Rich,Dale Carnegie,NXB Kim Đồng,465484.0,474984,9500.0,2,4.0,18819
+656,Think and Grow Rich,J.K. Rowling,NXB Văn Học,297777.0,488159,190382.0,39,3.9,14585
+657,Think and Grow Rich,Tony Buổi Sáng,NXB Thế Giới,147762.0,182422,34660.0,19,3.4,1827
+658,Tuổi Trẻ Đáng Giá Bao Nhiêu,James Clear,NXB Trẻ,47861.0,49341,1480.0,3,4.9,8055
+659,Đắc Nhân Tâm,Dale Carnegie,NXB Trẻ,62718.0,89597,26879.0,30,4.6,9202
+660,Tuổi Trẻ Đáng Giá Bao Nhiêu,Dale Carnegie,NXB Thế Giới,264909.0,441515,176606.0,40,4.9,7407
+661,Muôn Kiếp Nhân Sinh,Robin Sharma,NXB Trẻ,193402.0,345360,151958.0,44,3.3,19408
+662,Atomic Habits,J.K. Rowling,NXB Phụ Nữ Việt Nam,52175.0,62861,10686.0,17,3.7,12913
+663,The Psychology of Money,J.K. Rowling,NXB Kim Đồng,267608.0,284689,17081.0,6,4.9,13169
+664,Hoàng Tử Bé,J.K. Rowling,NXB Trẻ,130463.0,176302,45839.0,26,4.8,14183
+665,Nhà Giả Kim,Nguyễn Nhật Ánh,NXB Kim Đồng,75767.0,79755,3988.0,5,4.3,9851
+666,Dế Mèn Phiêu Lưu Ký,Paulo Coelho,NXB Tổng Hợp TP.HCM,279973.0,388851,108878.0,28,3.7,8561
+667,Đắc Nhân Tâm,Robin Sharma,NXB Kim Đồng,91346.0,179110,87764.0,49,4.0,3548
+668,Sherlock Holmes,Dale Carnegie,NXB Phụ Nữ Việt Nam,42787.0,77795,35008.0,45,3.7,16052
+669,Dế Mèn Phiêu Lưu Ký,Victor Hugo,NXB Kim Đồng,256660.0,288382,31722.0,11,4.1,14635
+670,Nhà Giả Kim,Nguyễn Nhật Ánh,NXB Trẻ,59718.0,114843,55125.0,48,3.2,18531
+671,Những Người Khốn Khổ,Paulo Coelho,NXB Kim Đồng,125392.0,174156,48764.0,28,3.2,8193
+672,Hoàng Tử Bé,Dale Carnegie,NXB Trẻ,45932.0,82021,36089.0,44,4.2,12879
+673,Atomic Habits,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,150498.0,255081,104583.0,41,5.0,18586
+674,Atomic Habits,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,205770.0,285791,80021.0,28,3.5,15981
+675,Think and Grow Rich,Nguyễn Nhật Ánh,NXB Phụ Nữ Việt Nam,177097.0,196775,19678.0,10,4.4,8995
+676,Dế Mèn Phiêu Lưu Ký,Nguyễn Nhật Ánh,NXB Văn Học,275333.0,451366,176033.0,39,4.8,13255
+677,Đắc Nhân Tâm,Dale Carnegie,NXB Phụ Nữ Việt Nam,312382.0,459385,147003.0,32,3.6,7916
+678,Tuổi Trẻ Đáng Giá Bao Nhiêu,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,223170.0,378255,155085.0,41,3.9,4504
+679,Tuổi Trẻ Đáng Giá Bao Nhiêu,J.K. Rowling,NXB Văn Học,187145.0,306795,119650.0,39,4.7,8671
+680,Muôn Kiếp Nhân Sinh,J.K. Rowling,NXB Lao Động,279564.0,490463,210899.0,43,4.2,5082
+681,Dế Mèn Phiêu Lưu Ký,Antoine de Saint-Exupéry,NXB Trẻ,167835.0,254295,86460.0,34,3.0,1383
+682,Nhà Giả Kim,Tony Buổi Sáng,NXB Văn Học,25733.0,35740,10007.0,28,3.8,14393
+683,Think and Grow Rich,Paulo Coelho,NXB Trẻ,31498.0,60573,29075.0,48,4.6,6938
+684,The Psychology of Money,J.K. Rowling,NXB Trẻ,428106.0,481018,52912.0,11,4.1,5006
+685,Atomic Habits,Paulo Coelho,NXB Phụ Nữ Việt Nam,362097.0,436262,74165.0,17,4.1,10203
+686,Cây Cam Ngọt Của Tôi,J.K. Rowling,NXB Phụ Nữ Việt Nam,225820.0,396176,170356.0,43,4.9,12735
+687,Atomic Habits,J.K. Rowling,NXB Thế Giới,317507.0,334218,16711.0,5,4.1,5900
+688,Đắc Nhân Tâm,Robin Sharma,NXB Thế Giới,25773.0,32216,6443.0,20,3.2,3622
+689,Think and Grow Rich,James Clear,NXB Lao Động,293123.0,444126,151003.0,34,4.2,18271
+690,Atomic Habits,J.K. Rowling,NXB Văn Học,32942.0,56797,23855.0,42,4.2,9937
+691,Dế Mèn Phiêu Lưu Ký,Tony Buổi Sáng,NXB Văn Học,130063.0,188497,58434.0,31,3.1,1771
+692,Đắc Nhân Tâm,Robin Sharma,NXB Tổng Hợp TP.HCM,222702.0,253071,30369.0,12,4.4,4651
+693,Think and Grow Rich,Dale Carnegie,NXB Tổng Hợp TP.HCM,164061.0,248578,84517.0,34,3.9,17767
+694,Sherlock Holmes,James Clear,NXB Lao Động,174875.0,291458,116583.0,40,3.1,7900
+695,Đắc Nhân Tâm,Nguyễn Ngọc Tư,NXB Lao Động,202585.0,263098,60513.0,23,4.9,19624
+696,Sherlock Holmes,James Clear,NXB Lao Động,454028.0,468070,14042.0,3,4.6,18717
+697,Những Người Khốn Khổ,Nguyễn Ngọc Tư,NXB Phụ Nữ Việt Nam,178524.0,225980,47456.0,21,5.0,1560
+698,Atomic Habits,Nguyễn Ngọc Tư,NXB Trẻ,214770.0,311261,96491.0,31,3.2,6948
+699,Muôn Kiếp Nhân Sinh,James Clear,NXB Kim Đồng,233445.0,466890,233445.0,50,3.7,5172
+700,Atomic Habits,James Clear,NXB Tổng Hợp TP.HCM,247764.0,419939,172175.0,41,3.5,12707
+701,Think and Grow Rich,Nguyễn Nhật Ánh,NXB Thế Giới,120795.0,127153,6358.0,5,4.7,12464
+702,Hoàng Tử Bé,Nguyễn Nhật Ánh,NXB Thế Giới,65168.0,116372,51204.0,44,4.6,13952
+703,Sherlock Holmes,Nguyễn Nhật Ánh,NXB Thế Giới,135479.0,265646,130167.0,49,3.6,10287
+704,Cây Cam Ngọt Của Tôi,Nguyễn Ngọc Tư,NXB Phụ Nữ Việt Nam,481550.0,486414,4864.0,1,4.9,12447
+705,Cây Cam Ngọt Của Tôi,Nguyễn Ngọc Tư,NXB Kim Đồng,140041.0,200059,60018.0,30,4.1,13078
+706,Hoàng Tử Bé,Tony Buổi Sáng,NXB Kim Đồng,364089.0,413737,49648.0,12,4.0,2321
+707,Dế Mèn Phiêu Lưu Ký,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,41147.0,48984,7837.0,16,4.9,4094
+708,Think and Grow Rich,Robin Sharma,NXB Tổng Hợp TP.HCM,230563.0,247917,17354.0,7,4.8,16802
+709,Cây Cam Ngọt Của Tôi,Tony Buổi Sáng,NXB Lao Động,193194.0,222062,28868.0,13,3.2,3637
+710,Harry Potter,Tony Buổi Sáng,NXB Lao Động,190223.0,229184,38961.0,17,3.3,14164
+711,Atomic Habits,Victor Hugo,NXB Thế Giới,163099.0,203874,40775.0,20,3.7,8542
+712,Những Người Khốn Khổ,James Clear,NXB Văn Học,84230.0,94640,10410.0,11,4.0,12690
+713,Atomic Habits,James Clear,NXB Tổng Hợp TP.HCM,255278.0,447856,192578.0,43,4.2,6172
+714,Cây Cam Ngọt Của Tôi,Nguyễn Ngọc Tư,NXB Kim Đồng,286571.0,454875,168304.0,37,3.3,855
+715,Nhà Giả Kim,Robin Sharma,NXB Kim Đồng,200163.0,253371,53208.0,21,3.2,18434
+716,Dế Mèn Phiêu Lưu Ký,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,209874.0,246911,37037.0,15,3.8,13487
+717,Sherlock Holmes,Paulo Coelho,NXB Trẻ,140372.0,157721,17349.0,11,4.4,14654
+718,Nhà Giả Kim,Nguyễn Ngọc Tư,NXB Kim Đồng,24519.0,49037,24518.0,50,3.6,5400
+719,Dế Mèn Phiêu Lưu Ký,J.K. Rowling,NXB Phụ Nữ Việt Nam,491793.0,491793,0.0,0,4.8,1899
+720,Sherlock Holmes,Paulo Coelho,NXB Tổng Hợp TP.HCM,290396.0,358513,68117.0,19,3.4,14103
+721,Nhà Giả Kim,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,153066.0,168204,15138.0,9,4.0,5832
+722,Tuổi Trẻ Đáng Giá Bao Nhiêu,Robin Sharma,NXB Lao Động,75826.0,137865,62039.0,45,4.8,18692
+723,Deep Work,Dale Carnegie,NXB Trẻ,237180.0,239576,2396.0,1,3.3,13772
+724,Dế Mèn Phiêu Lưu Ký,James Clear,NXB Lao Động,93170.0,98074,4904.0,5,4.7,11860
+725,Những Người Khốn Khổ,J.K. Rowling,NXB Lao Động,104568.0,183453,78885.0,43,4.4,2067
+726,Nhà Giả Kim,Robin Sharma,NXB Lao Động,347665.0,399615,51950.0,13,3.3,14945
+727,Đắc Nhân Tâm,Dale Carnegie,NXB Văn Học,140591.0,238289,97698.0,41,4.3,3349
+728,Harry Potter,Dale Carnegie,NXB Phụ Nữ Việt Nam,380288.0,408912,28624.0,7,5.0,14659
+729,Không Gia Đình,J.K. Rowling,NXB Tổng Hợp TP.HCM,249712.0,356731,107019.0,30,4.6,16682
+730,Những Người Khốn Khổ,Nguyễn Ngọc Tư,NXB Thế Giới,289314.0,438354,149040.0,34,4.6,3339
+731,Think and Grow Rich,Nguyễn Ngọc Tư,NXB Phụ Nữ Việt Nam,424631.0,442324,17693.0,4,4.0,4210
+732,Những Người Khốn Khổ,Dale Carnegie,NXB Trẻ,209298.0,240572,31274.0,13,4.6,18937
+733,Đắc Nhân Tâm,Antoine de Saint-Exupéry,NXB Kim Đồng,262052.0,459741,197689.0,43,4.8,9628
+734,Harry Potter,Nguyễn Nhật Ánh,NXB Văn Học,120430.0,185277,64847.0,35,3.5,12696
+735,Deep Work,Nguyễn Nhật Ánh,NXB Trẻ,171149.0,276047,104898.0,38,4.4,17006
+736,Những Người Khốn Khổ,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,123738.0,128894,5156.0,4,4.9,16609
+737,Không Gia Đình,Dale Carnegie,NXB Văn Học,305586.0,456099,150513.0,33,3.1,5741
+738,Nhà Giả Kim,James Clear,NXB Lao Động,278078.0,370770,92692.0,25,3.2,13121
+739,Đắc Nhân Tâm,Nguyễn Nhật Ánh,NXB Phụ Nữ Việt Nam,263306.0,360693,97387.0,27,4.7,19533
+740,Muôn Kiếp Nhân Sinh,Victor Hugo,NXB Kim Đồng,159212.0,187308,28096.0,15,4.1,19241
+741,Harry Potter,James Clear,NXB Tổng Hợp TP.HCM,233838.0,295997,62159.0,21,3.7,19117
+742,Deep Work,Robin Sharma,NXB Tổng Hợp TP.HCM,262274.0,282015,19741.0,7,4.0,11960
+743,Hoàng Tử Bé,Antoine de Saint-Exupéry,NXB Thế Giới,167359.0,209199,41840.0,20,3.1,18158
+744,Sherlock Holmes,Robin Sharma,NXB Trẻ,320409.0,416115,95706.0,23,3.2,8868
+745,Muôn Kiếp Nhân Sinh,J.K. Rowling,NXB Lao Động,286586.0,392584,105998.0,27,3.1,19188
+746,Nhà Giả Kim,Robin Sharma,NXB Văn Học,250636.0,410879,160243.0,39,3.1,2656
+747,Deep Work,Nguyễn Ngọc Tư,NXB Kim Đồng,137356.0,159716,22360.0,14,3.0,241
+748,Dế Mèn Phiêu Lưu Ký,J.K. Rowling,NXB Trẻ,219444.0,337606,118162.0,35,4.0,19475
+749,Không Gia Đình,Tony Buổi Sáng,NXB Trẻ,313678.0,454606,140928.0,31,4.6,2492
+750,The Psychology of Money,Dale Carnegie,NXB Trẻ,306898.0,340998,34100.0,10,3.1,4070
+751,Deep Work,Victor Hugo,NXB Phụ Nữ Việt Nam,278519.0,357075,78556.0,22,4.8,18961
+752,Muôn Kiếp Nhân Sinh,Dale Carnegie,NXB Lao Động,171136.0,198995,27859.0,14,4.0,8565
+753,Những Người Khốn Khổ,Tony Buổi Sáng,NXB Văn Học,198288.0,305059,106771.0,35,3.1,841
+754,Cây Cam Ngọt Của Tôi,Paulo Coelho,NXB Thế Giới,245058.0,437603,192545.0,44,4.9,13331
+755,Cây Cam Ngọt Của Tôi,Victor Hugo,NXB Tổng Hợp TP.HCM,209399.0,232666,23267.0,10,3.2,7214
+756,Harry Potter,J.K. Rowling,NXB Tổng Hợp TP.HCM,66533.0,110888,44355.0,40,4.6,12396
+757,Muôn Kiếp Nhân Sinh,Victor Hugo,NXB Phụ Nữ Việt Nam,79127.0,138820,59693.0,43,3.8,19427
+758,Deep Work,Victor Hugo,NXB Trẻ,143550.0,166919,23369.0,14,3.8,14743
+759,Tuổi Trẻ Đáng Giá Bao Nhiêu,Antoine de Saint-Exupéry,NXB Thế Giới,171205.0,323028,151823.0,47,4.1,2122
+760,Không Gia Đình,Dale Carnegie,NXB Trẻ,406023.0,422941,16918.0,4,3.3,17478
+761,Không Gia Đình,Dale Carnegie,NXB Văn Học,242238.0,384505,142267.0,37,4.0,8882
+762,Không Gia Đình,Paulo Coelho,NXB Lao Động,264236.0,281102,16866.0,6,5.0,19008
+763,Cây Cam Ngọt Của Tôi,Nguyễn Ngọc Tư,NXB Kim Đồng,272635.0,373472,100837.0,27,4.7,4690
+764,The Psychology of Money,Tony Buổi Sáng,NXB Lao Động,177236.0,253194,75958.0,30,3.5,7646
+765,Dế Mèn Phiêu Lưu Ký,James Clear,NXB Lao Động,290866.0,350441,59575.0,17,4.6,11479
+766,Đắc Nhân Tâm,Victor Hugo,NXB Văn Học,57186.0,75245,18059.0,24,3.5,6831
+767,Think and Grow Rich,Antoine de Saint-Exupéry,NXB Phụ Nữ Việt Nam,91027.0,97879,6852.0,7,4.7,6060
+768,Cây Cam Ngọt Của Tôi,Victor Hugo,NXB Thế Giới,280254.0,295004,14750.0,5,3.4,18488
+769,Không Gia Đình,Dale Carnegie,NXB Văn Học,88100.0,169424,81324.0,48,4.3,10118
+770,Harry Potter,Dale Carnegie,NXB Lao Động,254532.0,299450,44918.0,15,4.6,10216
+771,Sherlock Holmes,Victor Hugo,NXB Trẻ,115138.0,147613,32475.0,22,4.9,16921
+772,Muôn Kiếp Nhân Sinh,Paulo Coelho,NXB Trẻ,246003.0,270333,24330.0,9,4.8,2847
+773,Đắc Nhân Tâm,Nguyễn Nhật Ánh,NXB Trẻ,87229.0,158599,71370.0,45,3.4,10953
+774,Những Người Khốn Khổ,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,39446.0,59766,20320.0,34,4.5,16688
+775,Deep Work,James Clear,NXB Văn Học,119266.0,212975,93709.0,44,4.4,6673
+776,Không Gia Đình,Paulo Coelho,NXB Phụ Nữ Việt Nam,161218.0,161218,0.0,0,4.3,11540
+777,Tuổi Trẻ Đáng Giá Bao Nhiêu,Victor Hugo,NXB Trẻ,337910.0,344806,6896.0,2,3.4,16539
+778,The Psychology of Money,Dale Carnegie,NXB Phụ Nữ Việt Nam,56941.0,66210,9269.0,14,4.7,9220
+779,Đắc Nhân Tâm,Dale Carnegie,NXB Lao Động,72015.0,101429,29414.0,29,4.8,9518
+780,Cây Cam Ngọt Của Tôi,Nguyễn Ngọc Tư,NXB Kim Đồng,162943.0,254598,91655.0,36,3.4,8705
+781,Sherlock Holmes,Victor Hugo,NXB Phụ Nữ Việt Nam,83666.0,119523,35857.0,30,3.1,5132
+782,Đắc Nhân Tâm,James Clear,NXB Lao Động,291626.0,478075,186449.0,39,4.7,1900
+783,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Nhật Ánh,NXB Kim Đồng,50323.0,67097,16774.0,25,4.3,5990
+784,Đắc Nhân Tâm,Paulo Coelho,NXB Phụ Nữ Việt Nam,204135.0,234638,30503.0,13,3.3,10566
+785,Harry Potter,Paulo Coelho,NXB Phụ Nữ Việt Nam,123202.0,154003,30801.0,20,3.5,4793
+786,Những Người Khốn Khổ,Victor Hugo,NXB Phụ Nữ Việt Nam,131848.0,141772,9924.0,7,3.7,14676
+787,Nhà Giả Kim,Paulo Coelho,NXB Thế Giới,323237.0,442790,119553.0,27,4.5,9451
+788,Nhà Giả Kim,Nguyễn Ngọc Tư,NXB Thế Giới,126317.0,130224,3907.0,3,5.0,9260
+789,Không Gia Đình,Nguyễn Nhật Ánh,NXB Tổng Hợp TP.HCM,405306.0,435813,30507.0,7,3.3,15369
+790,Dế Mèn Phiêu Lưu Ký,J.K. Rowling,NXB Tổng Hợp TP.HCM,115917.0,156645,40728.0,26,4.6,13739
+791,Tuổi Trẻ Đáng Giá Bao Nhiêu,Robin Sharma,NXB Trẻ,191014.0,254686,63672.0,25,3.9,15708
+792,Tuổi Trẻ Đáng Giá Bao Nhiêu,Antoine de Saint-Exupéry,NXB Trẻ,401700.0,431936,30236.0,7,3.4,392
+793,Muôn Kiếp Nhân Sinh,Nguyễn Ngọc Tư,NXB Kim Đồng,108452.0,177790,69338.0,39,3.3,442
+794,Harry Potter,Nguyễn Nhật Ánh,NXB Kim Đồng,219135.0,438270,219135.0,50,4.6,17597
+795,Nhà Giả Kim,Paulo Coelho,NXB Thế Giới,194868.0,286570,91702.0,32,3.6,10047
+796,Muôn Kiếp Nhân Sinh,Antoine de Saint-Exupéry,NXB Thế Giới,144603.0,229529,84926.0,37,4.8,15349
+797,Hoàng Tử Bé,Tony Buổi Sáng,NXB Văn Học,236348.0,265560,29212.0,11,4.0,7848
+798,Không Gia Đình,James Clear,NXB Trẻ,164593.0,222423,57830.0,26,4.3,6842
+799,Think and Grow Rich,Robin Sharma,NXB Văn Học,38066.0,60422,22356.0,37,4.1,204
+800,Deep Work,Paulo Coelho,NXB Văn Học,114453.0,117993,3540.0,3,3.4,9973
+801,Sherlock Holmes,J.K. Rowling,NXB Tổng Hợp TP.HCM,293283.0,308719,15436.0,5,3.6,16236
+802,Tuổi Trẻ Đáng Giá Bao Nhiêu,J.K. Rowling,NXB Tổng Hợp TP.HCM,298185.0,402953,104768.0,26,4.4,2861
+803,Đắc Nhân Tâm,Robin Sharma,NXB Thế Giới,262626.0,486344,223718.0,46,3.5,14165
+804,Hoàng Tử Bé,Nguyễn Ngọc Tư,NXB Thế Giới,99253.0,165422,66169.0,40,4.3,6791
+805,Harry Potter,Antoine de Saint-Exupéry,NXB Văn Học,87847.0,98704,10857.0,11,3.1,12365
+806,Cây Cam Ngọt Của Tôi,Nguyễn Ngọc Tư,NXB Văn Học,45096.0,60940,15844.0,26,4.3,4598
+807,Harry Potter,Victor Hugo,NXB Văn Học,88580.0,138407,49827.0,36,3.2,9481
+808,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Ngọc Tư,NXB Thế Giới,47769.0,66346,18577.0,28,4.1,13724
+809,Deep Work,Nguyễn Nhật Ánh,NXB Tổng Hợp TP.HCM,94010.0,110600,16590.0,15,3.1,19013
+810,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Nhật Ánh,NXB Thế Giới,152790.0,154333,1543.0,1,4.8,19017
+811,Đắc Nhân Tâm,Dale Carnegie,NXB Văn Học,285545.0,402176,116631.0,29,3.8,5354
+812,Muôn Kiếp Nhân Sinh,Nguyễn Nhật Ánh,NXB Kim Đồng,335356.0,441258,105902.0,24,4.7,9435
+813,Think and Grow Rich,Victor Hugo,NXB Lao Động,60959.0,64167,3208.0,5,3.7,12050
+814,Đắc Nhân Tâm,Paulo Coelho,NXB Kim Đồng,489879.0,499877,9998.0,2,3.5,19107
+815,Nhà Giả Kim,Dale Carnegie,NXB Tổng Hợp TP.HCM,223684.0,257108,33424.0,13,4.3,483
+816,Không Gia Đình,Robin Sharma,NXB Phụ Nữ Việt Nam,210251.0,339114,128863.0,38,3.8,17256
+817,Harry Potter,Robin Sharma,NXB Kim Đồng,336344.0,494624,158280.0,32,3.6,815
+818,Không Gia Đình,Tony Buổi Sáng,NXB Văn Học,242329.0,252426,10097.0,4,3.5,6710
+819,Cây Cam Ngọt Của Tôi,Robin Sharma,NXB Thế Giới,236371.0,281394,45023.0,16,4.2,2537
+820,Không Gia Đình,James Clear,NXB Kim Đồng,53778.0,91149,37371.0,41,4.7,7642
+821,Dế Mèn Phiêu Lưu Ký,J.K. Rowling,NXB Kim Đồng,182272.0,276170,93898.0,34,4.3,1316
+822,Deep Work,Nguyễn Ngọc Tư,NXB Phụ Nữ Việt Nam,266059.0,292373,26314.0,9,3.7,12938
+823,Deep Work,Paulo Coelho,NXB Lao Động,451632.0,460849,9217.0,2,4.4,7557
+824,Sherlock Holmes,Robin Sharma,NXB Lao Động,20318.0,40636,20318.0,50,4.4,17599
+825,Nhà Giả Kim,Nguyễn Nhật Ánh,NXB Phụ Nữ Việt Nam,153461.0,255769,102308.0,40,3.1,13013
+826,Cây Cam Ngọt Của Tôi,J.K. Rowling,NXB Văn Học,174353.0,305883,131530.0,43,4.4,11241
+827,Tuổi Trẻ Đáng Giá Bao Nhiêu,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,94774.0,175507,80733.0,46,5.0,2396
+828,Think and Grow Rich,Victor Hugo,NXB Kim Đồng,101119.0,126399,25280.0,20,3.4,875
+829,Deep Work,James Clear,NXB Trẻ,270955.0,387079,116124.0,30,4.1,10789
+830,Những Người Khốn Khổ,Robin Sharma,NXB Văn Học,287422.0,330370,42948.0,13,3.2,17177
+831,Dế Mèn Phiêu Lưu Ký,Victor Hugo,NXB Lao Động,163358.0,206782,43424.0,21,3.0,4427
+832,Không Gia Đình,Dale Carnegie,NXB Lao Động,273448.0,290902,17454.0,6,3.5,9721
+833,Muôn Kiếp Nhân Sinh,Victor Hugo,NXB Lao Động,340880.0,420840,79960.0,19,3.5,2371
+834,Dế Mèn Phiêu Lưu Ký,Antoine de Saint-Exupéry,NXB Phụ Nữ Việt Nam,202151.0,237825,35674.0,15,3.8,5640
+835,Tuổi Trẻ Đáng Giá Bao Nhiêu,Robin Sharma,NXB Phụ Nữ Việt Nam,191986.0,319976,127990.0,40,3.1,18215
+836,Nhà Giả Kim,Nguyễn Nhật Ánh,NXB Kim Đồng,41756.0,47450,5694.0,12,4.8,3832
+837,Harry Potter,Robin Sharma,NXB Lao Động,39708.0,45641,5933.0,13,4.6,11681
+838,Deep Work,Tony Buổi Sáng,NXB Trẻ,319029.0,370964,51935.0,14,4.9,6893
+839,Atomic Habits,Antoine de Saint-Exupéry,NXB Văn Học,26708.0,52368,25660.0,49,4.8,5484
+840,Không Gia Đình,Paulo Coelho,NXB Lao Động,261190.0,492811,231621.0,47,4.6,5999
+841,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Ngọc Tư,NXB Kim Đồng,352008.0,463168,111160.0,24,4.9,9465
+842,Think and Grow Rich,Robin Sharma,NXB Lao Động,211842.0,415376,203534.0,49,4.8,17595
+843,Harry Potter,Victor Hugo,NXB Thế Giới,358113.0,385068,26955.0,7,3.5,13983
+844,Không Gia Đình,Nguyễn Ngọc Tư,NXB Kim Đồng,282998.0,297893,14895.0,5,3.7,18127
+845,Muôn Kiếp Nhân Sinh,Antoine de Saint-Exupéry,NXB Văn Học,131986.0,191284,59298.0,31,3.0,16797
+846,Muôn Kiếp Nhân Sinh,Tony Buổi Sáng,NXB Văn Học,248184.0,318184,70000.0,22,4.1,6107
+847,Dế Mèn Phiêu Lưu Ký,Tony Buổi Sáng,NXB Thế Giới,412760.0,458622,45862.0,10,4.5,12449
+848,Atomic Habits,Dale Carnegie,NXB Kim Đồng,69329.0,126053,56724.0,45,3.6,17787
+849,The Psychology of Money,Nguyễn Nhật Ánh,NXB Văn Học,258910.0,266918,8008.0,3,3.9,890
+850,Không Gia Đình,Paulo Coelho,NXB Tổng Hợp TP.HCM,250340.0,439193,188853.0,43,4.7,810
+851,Atomic Habits,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,178919.0,350822,171903.0,49,3.0,13614
+852,Dế Mèn Phiêu Lưu Ký,Nguyễn Nhật Ánh,NXB Văn Học,315177.0,370797,55620.0,15,3.6,19554
+853,Không Gia Đình,Robin Sharma,NXB Trẻ,300293.0,326405,26112.0,8,4.8,13100
+854,Atomic Habits,J.K. Rowling,NXB Tổng Hợp TP.HCM,224843.0,255503,30660.0,12,3.7,4001
+855,The Psychology of Money,Nguyễn Ngọc Tư,NXB Thế Giới,33009.0,37089,4080.0,11,4.7,15594
+856,Think and Grow Rich,Paulo Coelho,NXB Lao Động,255554.0,319443,63889.0,20,3.9,3033
+857,Đắc Nhân Tâm,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,282174.0,297025,14851.0,5,3.1,11342
+858,Tuổi Trẻ Đáng Giá Bao Nhiêu,Paulo Coelho,NXB Phụ Nữ Việt Nam,230130.0,302802,72672.0,24,3.3,535
+859,The Psychology of Money,J.K. Rowling,NXB Trẻ,250929.0,306011,55082.0,18,5.0,5247
+860,Tuổi Trẻ Đáng Giá Bao Nhiêu,Paulo Coelho,NXB Lao Động,355331.0,408426,53095.0,13,3.1,17622
+861,Dế Mèn Phiêu Lưu Ký,Victor Hugo,NXB Phụ Nữ Việt Nam,187666.0,360896,173230.0,48,3.6,3327
+862,The Psychology of Money,Nguyễn Nhật Ánh,NXB Thế Giới,262906.0,386626,123720.0,32,3.0,8152
+863,Nhà Giả Kim,Robin Sharma,NXB Lao Động,193516.0,327993,134477.0,41,4.1,19581
+864,Tuổi Trẻ Đáng Giá Bao Nhiêu,J.K. Rowling,NXB Thế Giới,89191.0,135138,45947.0,34,3.2,14311
+865,Atomic Habits,Tony Buổi Sáng,NXB Lao Động,426121.0,453320,27199.0,6,3.7,11367
+866,Deep Work,Paulo Coelho,NXB Văn Học,286813.0,377385,90572.0,24,3.0,6258
+867,Sherlock Holmes,Nguyễn Ngọc Tư,NXB Phụ Nữ Việt Nam,382208.0,483807,101599.0,21,3.1,10626
+868,Think and Grow Rich,J.K. Rowling,NXB Văn Học,121062.0,126106,5044.0,4,4.6,15658
+869,Harry Potter,J.K. Rowling,NXB Kim Đồng,163575.0,286973,123398.0,43,4.4,15599
+870,Atomic Habits,Robin Sharma,NXB Tổng Hợp TP.HCM,95360.0,190720,95360.0,50,4.3,121
+871,Nhà Giả Kim,Robin Sharma,NXB Tổng Hợp TP.HCM,261430.0,443101,181671.0,41,4.7,15712
+872,Tuổi Trẻ Đáng Giá Bao Nhiêu,J.K. Rowling,NXB Thế Giới,281192.0,299140,17948.0,6,3.2,13293
+873,Think and Grow Rich,Nguyễn Nhật Ánh,NXB Lao Động,191032.0,198992,7960.0,4,3.0,5186
+874,Atomic Habits,James Clear,NXB Văn Học,414169.0,431426,17257.0,4,4.5,3797
+875,Cây Cam Ngọt Của Tôi,Nguyễn Nhật Ánh,NXB Phụ Nữ Việt Nam,237870.0,344739,106869.0,31,3.9,14360
+876,Dế Mèn Phiêu Lưu Ký,J.K. Rowling,NXB Thế Giới,322590.0,488772,166182.0,34,4.7,2087
+877,Atomic Habits,Dale Carnegie,NXB Tổng Hợp TP.HCM,23430.0,42600,19170.0,45,3.6,11579
+878,Đắc Nhân Tâm,Tony Buổi Sáng,NXB Kim Đồng,58817.0,115327,56510.0,49,4.9,19518
+879,Think and Grow Rich,Dale Carnegie,NXB Trẻ,41117.0,66317,25200.0,38,3.6,2634
+880,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Ngọc Tư,NXB Trẻ,178091.0,291953,113862.0,39,4.8,10442
+881,Think and Grow Rich,Victor Hugo,NXB Lao Động,90456.0,180912,90456.0,50,4.5,17472
+882,Sherlock Holmes,Victor Hugo,NXB Phụ Nữ Việt Nam,270536.0,474624,204088.0,43,4.0,8827
+883,The Psychology of Money,Antoine de Saint-Exupéry,NXB Lao Động,230817.0,334518,103701.0,31,3.4,16300
+884,Deep Work,James Clear,NXB Lao Động,170802.0,244003,73201.0,30,4.5,15626
+885,Những Người Khốn Khổ,Robin Sharma,NXB Trẻ,276647.0,359282,82635.0,23,4.0,16863
+886,Những Người Khốn Khổ,Tony Buổi Sáng,NXB Lao Động,52665.0,77448,24783.0,32,3.5,15688
+887,Tuổi Trẻ Đáng Giá Bao Nhiêu,Victor Hugo,NXB Tổng Hợp TP.HCM,313473.0,401889,88416.0,22,4.1,13113
+888,The Psychology of Money,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,322228.0,480937,158709.0,33,5.0,13105
+889,Muôn Kiếp Nhân Sinh,J.K. Rowling,NXB Tổng Hợp TP.HCM,276774.0,304147,27373.0,9,3.7,1723
+890,Atomic Habits,Dale Carnegie,NXB Trẻ,306395.0,378266,71871.0,19,4.4,18056
+891,Đắc Nhân Tâm,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,88568.0,112112,23544.0,21,4.8,10538
+892,Atomic Habits,Robin Sharma,NXB Phụ Nữ Việt Nam,48218.0,83134,34916.0,42,3.6,15498
+893,Đắc Nhân Tâm,Nguyễn Ngọc Tư,NXB Thế Giới,118463.0,236926,118463.0,50,4.9,2244
+894,Sherlock Holmes,Tony Buổi Sáng,NXB Văn Học,36870.0,54221,17351.0,32,3.4,6597
+895,Hoàng Tử Bé,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,275619.0,344524,68905.0,20,4.9,9462
+896,Không Gia Đình,Robin Sharma,NXB Trẻ,239751.0,255054,15303.0,6,3.6,2644
+897,Những Người Khốn Khổ,J.K. Rowling,NXB Phụ Nữ Việt Nam,303546.0,489590,186044.0,38,4.6,10794
+898,Think and Grow Rich,Dale Carnegie,NXB Phụ Nữ Việt Nam,70660.0,112159,41499.0,37,3.6,8746
+899,The Psychology of Money,Robin Sharma,NXB Trẻ,82540.0,139899,57359.0,41,4.4,8936
+900,Đắc Nhân Tâm,Antoine de Saint-Exupéry,NXB Phụ Nữ Việt Nam,344405.0,378467,34062.0,9,4.2,14645
+901,Dế Mèn Phiêu Lưu Ký,James Clear,NXB Trẻ,97817.0,137770,39953.0,29,3.9,19084
+902,Think and Grow Rich,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,208132.0,378422,170290.0,45,4.5,17991
+903,Nhà Giả Kim,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,104828.0,209656,104828.0,50,4.3,17165
+904,Không Gia Đình,Nguyễn Nhật Ánh,NXB Trẻ,193481.0,272508,79027.0,29,4.2,16062
+905,Hoàng Tử Bé,J.K. Rowling,NXB Tổng Hợp TP.HCM,271049.0,282343,11294.0,4,4.4,19548
+906,The Psychology of Money,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,39259.0,55294,16035.0,29,3.4,13560
+907,Deep Work,Paulo Coelho,NXB Trẻ,177630.0,355260,177630.0,50,4.6,12703
+908,Tuổi Trẻ Đáng Giá Bao Nhiêu,Paulo Coelho,NXB Lao Động,135192.0,265083,129891.0,49,4.7,9498
+909,Think and Grow Rich,Victor Hugo,NXB Văn Học,224737.0,307859,83122.0,27,4.4,3103
+910,Atomic Habits,James Clear,NXB Kim Đồng,27663.0,47695,20032.0,42,5.0,8341
+911,Nhà Giả Kim,Nguyễn Nhật Ánh,NXB Phụ Nữ Việt Nam,135743.0,174029,38286.0,22,4.9,19567
+912,Sherlock Holmes,Victor Hugo,NXB Trẻ,332729.0,432116,99387.0,23,4.4,2541
+913,The Psychology of Money,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,47988.0,74981,26993.0,36,4.6,6511
+914,Đắc Nhân Tâm,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,124747.0,239899,115152.0,48,4.3,12632
+915,The Psychology of Money,Tony Buổi Sáng,NXB Lao Động,140757.0,175946,35189.0,20,3.7,7761
+916,Dế Mèn Phiêu Lưu Ký,Robin Sharma,NXB Lao Động,68078.0,115387,47309.0,41,3.2,14537
+917,Nhà Giả Kim,James Clear,NXB Thế Giới,25898.0,31973,6075.0,19,3.5,3188
+918,Sherlock Holmes,Victor Hugo,NXB Trẻ,157510.0,262516,105006.0,40,4.6,7974
+919,Nhà Giả Kim,Nguyễn Ngọc Tư,NXB Lao Động,77228.0,107261,30033.0,28,5.0,6269
+920,The Psychology of Money,Antoine de Saint-Exupéry,NXB Văn Học,221755.0,363532,141777.0,39,3.5,6081
+921,Nhà Giả Kim,Tony Buổi Sáng,NXB Kim Đồng,171148.0,255445,84297.0,33,3.6,2001
+922,Không Gia Đình,J.K. Rowling,NXB Trẻ,39421.0,54751,15330.0,28,4.5,16873
+923,Cây Cam Ngọt Của Tôi,Paulo Coelho,NXB Kim Đồng,114828.0,135092,20264.0,15,4.6,19851
+924,Deep Work,James Clear,NXB Lao Động,388759.0,396693,7934.0,2,4.2,11746
+925,Tuổi Trẻ Đáng Giá Bao Nhiêu,Robin Sharma,NXB Kim Đồng,450815.0,495401,44586.0,9,3.0,6882
+926,Think and Grow Rich,Tony Buổi Sáng,NXB Lao Động,124443.0,248886,124443.0,50,4.8,3016
+927,Những Người Khốn Khổ,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,430346.0,448277,17931.0,4,3.7,12344
+928,Think and Grow Rich,Tony Buổi Sáng,NXB Trẻ,264915.0,401387,136472.0,34,3.2,19687
+929,Những Người Khốn Khổ,Tony Buổi Sáng,NXB Văn Học,60613.0,63139,2526.0,4,4.8,12122
+930,Think and Grow Rich,Dale Carnegie,NXB Thế Giới,293599.0,358048,64449.0,18,4.4,12139
+931,Đắc Nhân Tâm,Paulo Coelho,NXB Kim Đồng,265553.0,379361,113808.0,30,4.8,6325
+932,Sherlock Holmes,Nguyễn Ngọc Tư,NXB Văn Học,394302.0,394302,0.0,0,4.1,18094
+933,Think and Grow Rich,James Clear,NXB Văn Học,171647.0,204342,32695.0,16,4.1,3653
+934,Dế Mèn Phiêu Lưu Ký,Paulo Coelho,NXB Thế Giới,271065.0,326584,55519.0,17,4.4,1550
+935,Dế Mèn Phiêu Lưu Ký,J.K. Rowling,NXB Thế Giới,137498.0,167680,30182.0,18,3.2,19552
+936,Think and Grow Rich,Nguyễn Ngọc Tư,NXB Trẻ,313279.0,460704,147425.0,32,3.3,8093
+937,Đắc Nhân Tâm,Victor Hugo,NXB Tổng Hợp TP.HCM,241223.0,274117,32894.0,12,4.0,11942
+938,Những Người Khốn Khổ,James Clear,NXB Tổng Hợp TP.HCM,267947.0,326765,58818.0,18,4.9,16651
+939,Hoàng Tử Bé,Nguyễn Nhật Ánh,NXB Kim Đồng,62778.0,63412,634.0,1,3.1,15409
+940,Cây Cam Ngọt Của Tôi,Robin Sharma,NXB Phụ Nữ Việt Nam,107494.0,143326,35832.0,25,3.8,7341
+941,Nhà Giả Kim,J.K. Rowling,NXB Tổng Hợp TP.HCM,104250.0,119828,15578.0,13,4.2,1661
+942,Harry Potter,J.K. Rowling,NXB Lao Động,49426.0,66792,17366.0,26,4.0,2702
+943,Cây Cam Ngọt Của Tôi,Robin Sharma,NXB Lao Động,377998.0,455419,77421.0,17,3.0,11835
+944,Không Gia Đình,Nguyễn Ngọc Tư,NXB Trẻ,248073.0,486417,238344.0,49,4.0,7732
+945,Sherlock Holmes,Tony Buổi Sáng,NXB Tổng Hợp TP.HCM,281778.0,461931,180153.0,39,4.8,1607
+946,Không Gia Đình,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,125460.0,125460,0.0,0,3.9,2509
+947,Harry Potter,J.K. Rowling,NXB Văn Học,55926.0,69907,13981.0,20,3.1,185
+948,Những Người Khốn Khổ,James Clear,NXB Tổng Hợp TP.HCM,89215.0,103738,14523.0,14,3.1,12889
+949,The Psychology of Money,Dale Carnegie,NXB Lao Động,455354.0,489628,34274.0,7,3.4,3876
+950,Think and Grow Rich,Robin Sharma,NXB Lao Động,367081.0,453187,86106.0,19,3.6,16705
+951,Think and Grow Rich,J.K. Rowling,NXB Phụ Nữ Việt Nam,75501.0,151001,75500.0,50,4.3,10087
+952,Sherlock Holmes,Tony Buổi Sáng,NXB Phụ Nữ Việt Nam,424355.0,428641,4286.0,1,3.4,11136
+953,Dế Mèn Phiêu Lưu Ký,Victor Hugo,NXB Văn Học,39206.0,40840,1634.0,4,3.8,13477
+954,Sherlock Holmes,Nguyễn Nhật Ánh,NXB Kim Đồng,35952.0,38247,2295.0,6,4.2,6074
+955,Muôn Kiếp Nhân Sinh,James Clear,NXB Tổng Hợp TP.HCM,95336.0,138168,42832.0,31,4.1,10887
+956,Atomic Habits,Nguyễn Ngọc Tư,NXB Văn Học,224539.0,380575,156036.0,41,4.5,5154
+957,Không Gia Đình,Dale Carnegie,NXB Văn Học,242189.0,378421,136232.0,36,4.1,11116
+958,Harry Potter,J.K. Rowling,NXB Văn Học,167835.0,335670,167835.0,50,3.3,1639
+959,Cây Cam Ngọt Của Tôi,Paulo Coelho,NXB Phụ Nữ Việt Nam,107126.0,159890,52764.0,33,4.6,14681
+960,Hoàng Tử Bé,Robin Sharma,NXB Thế Giới,34384.0,52097,17713.0,34,3.3,17895
+961,Muôn Kiếp Nhân Sinh,Victor Hugo,NXB Lao Động,233383.0,315383,82000.0,26,3.0,19569
+962,Atomic Habits,Victor Hugo,NXB Lao Động,347685.0,463580,115895.0,25,4.0,14407
+963,Không Gia Đình,Victor Hugo,NXB Tổng Hợp TP.HCM,190222.0,297222,107000.0,36,3.0,4770
+964,Sherlock Holmes,Nguyễn Ngọc Tư,NXB Thế Giới,51410.0,64263,12853.0,20,3.4,3103
+965,Những Người Khốn Khổ,Nguyễn Ngọc Tư,NXB Thế Giới,40301.0,41547,1246.0,3,3.9,14711
+966,Think and Grow Rich,Antoine de Saint-Exupéry,NXB Lao Động,224138.0,307039,82901.0,27,3.4,6298
+967,Sherlock Holmes,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,129854.0,168642,38788.0,23,4.4,15475
+968,Harry Potter,Antoine de Saint-Exupéry,NXB Văn Học,115154.0,127949,12795.0,10,4.6,4717
+969,The Psychology of Money,James Clear,NXB Phụ Nữ Việt Nam,179038.0,255769,76731.0,30,3.3,18269
+970,Cây Cam Ngọt Của Tôi,J.K. Rowling,NXB Kim Đồng,165370.0,192291,26921.0,14,3.6,12881
+971,The Psychology of Money,Dale Carnegie,NXB Thế Giới,486251.0,496174,9923.0,2,3.2,7762
+972,Đắc Nhân Tâm,Antoine de Saint-Exupéry,NXB Văn Học,281922.0,366133,84211.0,23,3.5,17970
+973,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Ngọc Tư,NXB Văn Học,265335.0,323579,58244.0,18,3.3,2306
+974,Hoàng Tử Bé,Victor Hugo,NXB Văn Học,111373.0,112498,1125.0,1,4.6,710
+975,Atomic Habits,Victor Hugo,NXB Trẻ,198815.0,207099,8284.0,4,4.5,16869
+976,Muôn Kiếp Nhân Sinh,Antoine de Saint-Exupéry,NXB Lao Động,124846.0,195072,70226.0,36,4.7,17043
+977,Dế Mèn Phiêu Lưu Ký,Nguyễn Nhật Ánh,NXB Kim Đồng,137148.0,195926,58778.0,30,3.7,18245
+978,Dế Mèn Phiêu Lưu Ký,Dale Carnegie,NXB Lao Động,262187.0,369278,107091.0,29,4.4,17539
+979,Đắc Nhân Tâm,J.K. Rowling,NXB Kim Đồng,189071.0,378141,189070.0,50,3.9,15498
+980,Nhà Giả Kim,Dale Carnegie,NXB Kim Đồng,265354.0,396050,130696.0,33,3.1,182
+981,Deep Work,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,419504.0,419504,0.0,0,3.1,578
+982,Đắc Nhân Tâm,J.K. Rowling,NXB Văn Học,196579.0,236842,40263.0,17,4.5,8735
+983,Muôn Kiếp Nhân Sinh,J.K. Rowling,NXB Lao Động,77260.0,83075,5815.0,7,3.7,18345
+984,Deep Work,Victor Hugo,NXB Trẻ,354988.0,381708,26720.0,7,3.3,7855
+985,Đắc Nhân Tâm,Antoine de Saint-Exupéry,NXB Tổng Hợp TP.HCM,137461.0,151056,13595.0,9,3.0,8092
+986,Đắc Nhân Tâm,Tony Buổi Sáng,NXB Kim Đồng,341101.0,370762,29661.0,8,4.8,18843
+987,Dế Mèn Phiêu Lưu Ký,Tony Buổi Sáng,NXB Văn Học,302165.0,431664,129499.0,30,4.2,17001
+988,The Psychology of Money,Dale Carnegie,NXB Văn Học,405851.0,483156,77305.0,16,4.0,3995
+989,The Psychology of Money,Nguyễn Ngọc Tư,NXB Lao Động,354450.0,466381,111931.0,24,3.4,8728
+990,Sherlock Holmes,Robin Sharma,NXB Tổng Hợp TP.HCM,178830.0,283857,105027.0,37,4.4,8630
+991,Atomic Habits,Antoine de Saint-Exupéry,NXB Trẻ,296572.0,406263,109691.0,27,4.1,17500
+992,Những Người Khốn Khổ,Tony Buổi Sáng,NXB Văn Học,396625.0,426479,29854.0,7,4.8,10796
+993,Think and Grow Rich,Victor Hugo,NXB Lao Động,338796.0,477177,138381.0,29,3.2,1637
+994,Think and Grow Rich,Tony Buổi Sáng,NXB Kim Đồng,191313.0,382626,191313.0,50,4.2,5602
+995,Hoàng Tử Bé,Robin Sharma,NXB Phụ Nữ Việt Nam,390883.0,465337,74454.0,16,3.2,6057
+996,Hoàng Tử Bé,Nguyễn Ngọc Tư,NXB Văn Học,258218.0,318788,60570.0,19,3.5,11790
+997,Tuổi Trẻ Đáng Giá Bao Nhiêu,Nguyễn Ngọc Tư,NXB Tổng Hợp TP.HCM,128792.0,207729,78937.0,38,4.1,5536
+998,Muôn Kiếp Nhân Sinh,Paulo Coelho,NXB Trẻ,95337.0,158895,63558.0,40,3.2,5529
+999,Đắc Nhân Tâm,Nguyễn Ngọc Tư,NXB Trẻ,137815.0,146612,8797.0,6,4.7,850
+1000,Harry Potter,Paulo Coelho,NXB Phụ Nữ Việt Nam,468374.0,482860,14486.0,3,3.2,5127

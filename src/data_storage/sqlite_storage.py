@@ -97,9 +97,9 @@ print(f"Dataset records : {len(df)}")
 print(f"SQLite records  : {sqlite_count}")
 
 if sqlite_count == len(df):
-    print("✓ Verification successful!")
+    print("Verification successful!")
 else:
-    print("✗ Record count does not match.")
+    print("Record count does not match.")
 
 
 # ==========================================

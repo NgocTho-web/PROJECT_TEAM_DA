@@ -136,9 +136,9 @@ print(f"SQLite retrieved : {len(sqlite_df)} records")
 
 
 if len(qdrant_df) == len(sqlite_df):
-    print("✓ Both databases returned the same number of records.")
+    print("Both databases returned the same number of records.")
 else:
-    print("✗ Record counts are different.")
+    print("Record counts are different.")
 
 
 print("\n" + "=" * 60)

@@ -1,0 +1,43 @@
+﻿column,raw_nan_count,invalid_token_count,missing_count,missing_percentage
+isbn,0,0,0,0.0
+publication_date,514,0,514,4.24
+type,513,0,513,4.23
+category,510,0,510,4.2
+link_book_page,510,0,510,4.2
+name,0,0,0,0.0
+subtitle,6628,0,6628,54.63
+edition,7450,22,7472,61.58
+author,533,3,536,4.42
+gbpprice,0,0,0,0.0
+discount,523,0,523,4.31
+isSecondHand,510,0,510,4.2
+publisher,492,0,492,4.06
+published_country,770,30,800,6.59
+imprint,516,0,516,4.25
+language,584,0,584,4.81
+no_of_pages,1073,6,1079,8.89
+height,524,0,524,4.32
+width,526,0,526,4.34
+spine,645,0,645,5.32
+weight,510,0,510,4.2
+salesRank,5339,0,5339,44.0
+short_blurb,852,0,852,7.02
+long_blurb,991,0,991,8.17
+blurbReview,7087,1,7088,58.42
+Thương hiệu,12130,0,12130,99.98
+original_price,11623,0,11623,95.8
+discount_price,11623,0,11623,95.8
+discount_percentage,11623,0,11623,95.8
+rating,11623,0,11623,95.8
+rating_count,11623,0,11623,95.8
+llm_content,12113,0,12113,99.84
+ID,12113,0,12113,99.84
+Tên sách,12113,0,12113,99.84
+Tác giả,12113,0,12113,99.84
+Nhà xuất bản,12113,0,12113,99.84
+Giá,12113,0,12113,99.84
+Giá gốc,12113,0,12113,99.84
+Giảm giá,12113,0,12113,99.84
+Phần trăm giảm,12113,0,12113,99.84
+Đánh giá,12113,0,12113,99.84
+Số lượt đánh giá,12113,0,12113,99.84

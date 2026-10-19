@@ -1,0 +1,7 @@
+﻿column,top_category_after,share_before_pct,share_after_pct,change_pp,assessment
+type,Paperback,62.72,66.95,4.23,OK
+category,artanddesign,4.35,8.56,4.2,OK
+Thương hiệu,Casio,0.01,99.98,99.98,CẦN KIỂM TRA: mode-impute làm phình nhóm đầu
+Tên sách,Sherlock Holmes,0.02,99.86,99.84,CẦN KIỂM TRA: mode-impute làm phình nhóm đầu
+Tác giả,Robin Sharma,0.03,99.87,99.84,CẦN KIỂM TRA: mode-impute làm phình nhóm đầu
+Nhà xuất bản,NXB Thế Giới,0.05,99.88,99.84,CẦN KIỂM TRA: mode-impute làm phình nhóm đầu

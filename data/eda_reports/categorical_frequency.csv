@@ -1,0 +1,121 @@
+﻿column,category,frequency,percentage
+type,Paperback,8123,66.95
+type,Hardback,3762,31.01
+type,Board Book,113,0.93
+type,Spiral / Comb ...,50,0.41
+type,Book,37,0.3
+type,Calendar,16,0.13
+type,Diary,5,0.04
+type,Leather / Fine...,5,0.04
+type,Printed Music,5,0.04
+type,Merchandise,3,0.02
+type,Bath Book,2,0.02
+type,Hardback (Boxe...,2,0.02
+type,Plastic-Reinfo...,2,0.02
+type,Educational Ca...,2,0.02
+type,Hardback (Slip...,2,0.02
+type,Pamphlet / Lea...,1,0.01
+type,Paperback (Box...,1,0.01
+type,Record Book / ...,1,0.01
+type,Game,1,0.01
+category,artanddesign,1038,8.56
+category,childrens,521,4.29
+category,politics,518,4.27
+category,crime,511,4.21
+category,foodanddrink,511,4.21
+category,graphicnovels,508,4.19
+category,biography,505,4.16
+category,computing,501,4.13
+category,business,493,4.06
+category,education,486,4.01
+category,music,463,3.82
+category,homeandgarden,461,3.8
+category,fiction,437,3.6
+category,stage,437,3.6
+category,languages,421,3.47
+category,technology,414,3.41
+category,medical,405,3.34
+category,history,380,3.13
+category,stationeryandgift,374,3.08
+category,travel,373,3.07
+category,health,365,3.01
+category,literature,340,2.8
+category,sports,336,2.77
+category,philosophy,333,2.74
+category,sf,331,2.73
+category,teenandya,304,2.51
+category,science,254,2.09
+category,socsci,113,0.93
+language,English,11390,93.88
+language,Unknown,584,4.81
+language,"English,French",20,0.16
+language,"English,Latin",17,0.14
+language,"English,Greek, Ancient (to 1453)",14,0.12
+language,"English,Spanish",13,0.11
+language,"English,German",9,0.07
+language,Spanish,7,0.06
+language,"English,Japanese",7,0.06
+language,"English,French,German",6,0.05
+language,German,6,0.05
+language,"English,Chinese",6,0.05
+language,French,5,0.04
+language,"English,Italian",4,0.03
+language,"English,Hebrew",3,0.02
+language,"English,Arabic",3,0.02
+language,"English,Russian",3,0.02
+language,"English,Irish",2,0.02
+language,"French,English",2,0.02
+language,"English,English, Old (ca. 450-1100)",2,0.02
+language,Italian,2,0.02
+language,"English,Ukrainian",2,0.02
+language,"English,Scottish Gaelic",2,0.02
+language,"English,Welsh",2,0.02
+language,"English,Swedish",2,0.02
+language,"English,Greek, Modern (1453-)",2,0.02
+language,"German,English",2,0.02
+language,"English,French,Italian",1,0.01
+language,"English,Panjabi",1,0.01
+language,Arabic,1,0.01
+language,"English,Dutch; Flemish",1,0.01
+language,Welsh,1,0.01
+language,"English,Portuguese",1,0.01
+language,Japanese,1,0.01
+language,"English,Albanian",1,0.01
+language,"English,Romanian",1,0.01
+language,"English,Norwegian",1,0.01
+language,"English,English, Middle (1100-1500),English, Old (ca. 450-1100)",1,0.01
+language,"Latin,English",1,0.01
+language,"English,Swahili",1,0.01
+language,"English,Scots",1,0.01
+language,"English,German,Spanish",1,0.01
+language,"English,Korean",1,0.01
+Thương hiệu,Casio,12131,99.98
+Thương hiệu,Claro,1,0.01
+Thương hiệu,Deli,1,0.01
+Tên sách,Sherlock Holmes,12116,99.86
+Tên sách,Nhà Giả Kim,2,0.02
+Tên sách,The Psychology of Money,2,0.02
+Tên sách,Tuổi Trẻ Đáng Giá Bao Nhiêu,2,0.02
+Tên sách,Deep Work,2,0.02
+Tên sách,Dế Mèn Phiêu Lưu Ký,2,0.02
+Tên sách,Hoàng Tử Bé,2,0.02
+Tên sách,Đắc Nhân Tâm,1,0.01
+Tên sách,Cây Cam Ngọt Của Tôi,1,0.01
+Tên sách,Think and Grow Rich,1,0.01
+Tên sách,Những Người Khốn Khổ,1,0.01
+Tên sách,Không Gia Đình,1,0.01
+Tác giả,Robin Sharma,12117,99.87
+Tác giả,Tony Buổi Sáng,4,0.03
+Tác giả,James Clear,3,0.02
+Tác giả,Nguyễn Nhật Ánh,2,0.02
+Tác giả,Nguyễn Ngọc Tư,2,0.02
+Tác giả,Paulo Coelho,2,0.02
+Tác giả,Dale Carnegie,1,0.01
+Tác giả,Victor Hugo,1,0.01
+Tác giả,J.K. Rowling,1,0.01
+Nhà xuất bản,NXB Thế Giới,12119,99.88
+Nhà xuất bản,NXB Tổng Hợp TP.HCM,3,0.02
+Nhà xuất bản,NXB Phụ Nữ Việt Nam,3,0.02
+Nhà xuất bản,NXB Lao Động,3,0.02
+Nhà xuất bản,NXB Trẻ,3,0.02
+Nhà xuất bản,NXB Kim Đồng,2,0.02

@@ -1,0 +1,40 @@
+﻿column,dtype,missing_count,strategy,fill_value,reason
+publication_date,datetime64[us],671,skip,,Cột ngày/thời gian; không tự động nội suy vì dữ liệu sách không mặc định là chuỗi thời gian
+type,str,513,mode,Paperback,Biến phân loại có 19 nhóm; điền mode
+category,str,510,mode,artanddesign,Biến phân loại có 28 nhóm; điền mode
+link_book_page,str,510,skip,,Cột định danh: giữ giá trị thiếu
+subtitle,str,6628,constant,Unknown,Văn bản tự do/tên riêng; dùng Unknown
+edition,str,7472,constant,Unknown,Có 437 nhóm hoặc quá nhiều nhóm; dùng Unknown
+author,str,536,constant,Unknown,Văn bản tự do/tên riêng; dùng Unknown
+discount,float64,523,median,2.57,skew=12.35; phân phối lệch hoặc cần hạn chế ảnh hưởng của giá trị cực đoan
+isSecondHand,float64,510,mean,0.0,skew=0.00; phân phối gần đối xứng
+publisher,str,492,constant,Unknown,Có 1181 nhóm hoặc quá nhiều nhóm; dùng Unknown
+published_country,str,800,constant,Unknown,Có 65 nhóm hoặc quá nhiều nhóm; dùng Unknown
+imprint,str,516,constant,Unknown,Có 1566 nhóm hoặc quá nhiều nhóm; dùng Unknown
+language,str,584,constant,Unknown,Có 42 nhóm hoặc quá nhiều nhóm; dùng Unknown
+no_of_pages,str,1079,constant,Unknown,Có 2407 nhóm hoặc quá nhiều nhóm; dùng Unknown
+height,float64,524,median,184.0,skew=1.47; phân phối lệch hoặc cần hạn chế ảnh hưởng của giá trị cực đoan
+width,float64,526,mean,206.2684,skew=0.39; phân phối gần đối xứng
+spine,float64,645,median,23.0,skew=3.42; phân phối lệch hoặc cần hạn chế ảnh hưởng của giá trị cực đoan
+weight,float64,510,median,398.0,skew=4.44; phân phối lệch hoặc cần hạn chế ảnh hưởng của giá trị cực đoan
+salesRank,float64,5339,median,6339.5,skew=2.05; phân phối lệch hoặc cần hạn chế ảnh hưởng của giá trị cực đoan
+short_blurb,str,852,constant,Unknown,Văn bản tự do/tên riêng; dùng Unknown
+long_blurb,str,991,constant,Unknown,Văn bản tự do/tên riêng; dùng Unknown
+blurbReview,str,7088,constant,Unknown,Văn bản tự do/tên riêng; dùng Unknown
+Thương hiệu,str,12130,mode,Casio,Biến phân loại có 3 nhóm; điền mode
+original_price,float64,11623,median,152500.0,skew=4.03; phân phối lệch hoặc cần hạn chế ảnh hưởng của giá trị cực đoan
+discount_price,float64,11623,median,34655.0,skew=1.90; phân phối lệch hoặc cần hạn chế ảnh hưởng của giá trị cực đoan
+discount_percentage,float64,11623,mean,21.6843,skew=-0.16; phân phối gần đối xứng
+rating,float64,11623,median,5.0,skew=-3.87; phân phối lệch hoặc cần hạn chế ảnh hưởng của giá trị cực đoan
+rating_count,float64,11623,median,46.5,skew=5.64; phân phối lệch hoặc cần hạn chế ảnh hưởng của giá trị cực đoan
+llm_content,str,12113,constant,Unknown,Văn bản tự do/tên riêng; dùng Unknown
+ID,float64,12113,skip,,Cột định danh: giữ giá trị thiếu
+Tên sách,str,12113,mode,Sherlock Holmes,Biến phân loại có 12 nhóm; điền mode
+Tác giả,str,12113,mode,Robin Sharma,Biến phân loại có 9 nhóm; điền mode
+Nhà xuất bản,str,12113,mode,NXB Thế Giới,Biến phân loại có 6 nhóm; điền mode
+Giá,float64,12113,mean,228735.45,skew=-0.38; phân phối gần đối xứng
+Giá gốc,float64,12113,median,316941.0,skew=-0.61; phân phối lệch hoặc cần hạn chế ảnh hưởng của giá trị cực đoan
+Giảm giá,float64,12113,median,63806.5,skew=1.22; phân phối lệch hoặc cần hạn chế ảnh hưởng của giá trị cực đoan
+Phần trăm giảm,float64,12113,mean,23.85,skew=0.37; phân phối gần đối xứng
+Đánh giá,float64,12113,mean,3.965,skew=0.30; phân phối gần đối xứng
+Số lượt đánh giá,float64,12113,mean,8671.9,skew=0.20; phân phối gần đối xứng

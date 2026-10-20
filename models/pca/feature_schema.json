@@ -1,0 +1,29 @@
+{
+  "features": [
+    "gbpprice",
+    "discount",
+    "height",
+    "width",
+    "spine",
+    "weight",
+    "salesRank",
+    "original_price",
+    "discount_price",
+    "discount_percentage",
+    "rating",
+    "rating_count"
+  ],
+  "log1p_features": [
+    "gbpprice",
+    "discount",
+    "salesRank",
+    "original_price",
+    "discount_price",
+    "rating_count"
+  ],
+  "n_components": 9,
+  "target_variance": 0.9,
+  "retained_variance": 0.9277108172219758,
+  "source_rows": 12133,
+  "source_file": "data/cleaned/cleaned_data.csv"
+}
